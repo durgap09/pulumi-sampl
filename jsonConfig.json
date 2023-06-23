@@ -48,7 +48,7 @@
             },
             "isInterface": false,
             "key1": -4,
-            "loc": "-440 -210"
+            "loc": "-470 -240"
         },
         {
             "key": 358,
@@ -111,7 +111,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-320 -1138",
+            "loc": "-330 -1148",
             "group": 99
         },
         {
@@ -175,7 +175,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-340 -518.0000000000001",
+            "loc": "-340 -508.0000000000001",
             "group": -25
         },
         {
@@ -239,7 +239,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-200 -518.0000000000001",
+            "loc": "-200 -508.0000000000001",
             "group": -25
         },
         {
@@ -303,7 +303,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-180 -1138",
+            "loc": "-190 -1148",
             "group": 99
         },
         {
@@ -367,7 +367,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-60 -518.0000000000001",
+            "loc": "-60 -508.0000000000001",
             "group": -25
         },
         {
@@ -431,7 +431,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-40 -1138",
+            "loc": "-50 -1148",
             "group": 99
         },
         {
@@ -495,7 +495,7 @@
             },
             "isInterface": false,
             "key1": -32,
-            "loc": "-299.5 -820",
+            "loc": "-319.5 -830",
             "group": -23
         },
         {
@@ -553,7 +553,7 @@
             },
             "isInterface": false,
             "key1": -23,
-            "loc": "-159.5 -820",
+            "loc": "-179.5 -830",
             "group": -23
         },
         {
@@ -604,7 +604,7 @@
             },
             "isInterface": false,
             "key1": -18,
-            "loc": "-28 -820",
+            "loc": "-48 -830",
             "group": -23
         },
         {
@@ -673,7 +673,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1460 -1192",
+            "loc": "-1450 -1202",
             "group": -22
         },
         {
@@ -742,7 +742,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1320 -1192",
+            "loc": "-1310 -1202",
             "group": -22
         },
         {
@@ -811,7 +811,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1180 -1192",
+            "loc": "-1170 -1202",
             "group": -22
         },
         {
@@ -880,7 +880,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-890 -1206.4615800781255",
+            "loc": "-930 -1232.9615800781255",
             "group": -24
         },
         {
@@ -949,7 +949,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-750 -1206.4615800781255",
+            "loc": "-790 -1232.9615800781255",
             "group": -24
         },
         {
@@ -1018,7 +1018,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-610 -1206.4615800781255",
+            "loc": "-650 -1232.9615800781255",
             "group": -24
         },
         {
@@ -1076,7 +1076,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-1460 -1017",
+            "loc": "-1450 -1027",
             "group": -22
         },
         {
@@ -1134,7 +1134,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-890 -1031.4615800781255",
+            "loc": "-930 -1057.9615800781255",
             "group": -24
         },
         {
@@ -1248,7 +1248,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-1320 -1017",
+            "loc": "-1310 -1027",
             "group": -22
         },
         {
@@ -1362,7 +1362,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-750 -1031.4615800781255",
+            "loc": "-790 -1057.9615800781255",
             "group": -24
         },
         {
@@ -1377,7 +1377,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-380 -1200",
+            "loc": "-390 -1210",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1392,7 +1392,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1520 -1270",
+            "loc": "-1510 -1280",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1407,7 +1407,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-390 -920",
+            "loc": "-410 -930",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1422,7 +1422,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-950 -1284.4615800781255",
+            "loc": "-990 -1310.0004960937506",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1437,7 +1437,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-400 -580",
+            "loc": "-400 -570",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1495,7 +1495,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "240 -1260.9607480468753",
+            "loc": "240 -1250.961",
             "group": -30
         },
         {
@@ -1559,7 +1559,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "380 -1260.9607480468753",
+            "loc": "380 -1250.961",
             "group": -30
         },
         {
@@ -1623,7 +1623,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "520 -1260.9607480468753",
+            "loc": "520 -1250.961",
             "group": -30
         },
         {
@@ -1692,7 +1692,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-1180 -1017",
+            "loc": "-1170 -1027",
             "group": -22
         },
         {
@@ -1707,7 +1707,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "180 -1360",
+            "loc": "180 -1350",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1765,7 +1765,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-1432 -690",
+            "loc": "-1446 -720",
             "group": -36
         },
         {
@@ -1829,7 +1829,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1292 -690",
+            "loc": "-1306 -720",
             "group": -36
         },
         {
@@ -1893,7 +1893,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1152 -690",
+            "loc": "-1166 -720",
             "group": -36
         },
         {
@@ -1957,7 +1957,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1432 -515",
+            "loc": "-1446 -545",
             "group": -36
         },
         {
@@ -2021,7 +2021,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1292 -515",
+            "loc": "-1306 -545",
             "group": -36
         },
         {
@@ -2036,7 +2036,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-1530 -790",
+            "loc": "-1540 -820",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2105,7 +2105,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "380 -448",
+            "loc": "290 -468",
             "group": -39
         },
         {
@@ -2174,7 +2174,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "520 -448",
+            "loc": "430 -468",
             "group": -39
         },
         {
@@ -2189,7 +2189,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "320 -510",
+            "loc": "230 -530",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2247,7 +2247,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "270 -940.961",
+            "loc": "260 -960",
             "group": -52
         },
         {
@@ -2305,7 +2305,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-850 -640",
+            "loc": "-890 -680",
             "group": -47
         },
         {
@@ -2363,7 +2363,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-710 -640",
+            "loc": "-750 -680",
             "group": -47
         },
         {
@@ -2421,7 +2421,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "410 -940.961",
+            "loc": "400 -960",
             "group": -52
         },
         {
@@ -2472,7 +2472,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-578.5 -640",
+            "loc": "-618.5 -680",
             "group": -47
         },
         {
@@ -2523,7 +2523,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-858.5 -430",
+            "loc": "-898.5 -470",
             "group": -47
         },
         {
@@ -2538,7 +2538,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-910 -740",
+            "loc": "-950 -782.5",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2589,7 +2589,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "541.5 -940.961",
+            "loc": "531.5 -960",
             "group": -52
         },
         {
@@ -2640,7 +2640,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "261.5 -730.961",
+            "loc": "251.5 -750",
             "group": -52
         },
         {
@@ -2691,7 +2691,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "366.5 -730.961",
+            "loc": "356.5 -750",
             "group": -52
         },
         {
@@ -2706,7 +2706,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -3,
-            "loc": "210 -1040",
+            "loc": "200 -1062.5",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2757,7 +2757,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-753.5 -430",
+            "loc": "-793.5 -470",
             "group": -47
         }
     ],
@@ -24019,7 +24019,25 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-23-2023 05:14 pm",
+            "time": "06-23-2023 05:17 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-06-23T11:45:13.323+00:00",
+            "content": "Previewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/c5c50d79-1b5a-4b42-a773-6be7e644ff24\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update......\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Previewing update.....\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi preview --client=127.0.0.1:45557 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-X76YBD/eventlog.txt --stack saas-prod-1 --non-interactive\nwarning: A new version of Pulumi is available. To upgrade from version '3.68.0' to '3.73.0', run \n   $ curl -sSL https://get.pulumi.com | sh\nor visit https://pulumi.com/docs/reference/install/ for manual instructions and release notes.\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/c5c50d79-1b5a-4b42-a773-6be7e644ff24\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update......\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Previewing update.....\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n err?: Error: Command failed with exit code 255: pulumi preview --client=127.0.0.1:45557 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-X76YBD/eventlog.txt --stack saas-prod-1 --non-interactive\nwarning: A new version of Pulumi is available. To upgrade from version '3.68.0' to '3.73.0', run \n   $ curl -sSL https://get.pulumi.com | sh\nor visit https://pulumi.com/docs/reference/install/ for manual instructions and release notes.\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/c5c50d79-1b5a-4b42-a773-6be7e644ff24\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update......\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Previewing update.....\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 5011d48ecaa2ef47a4296f2c461697e55037af02 \nBranch: ws-1/saas-prod-1 \nChanges: 2 \nInsertions: 24450 \nDeletions: 0\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 5011d48ecaa2ef47a4296f2c461697e55037af02 \nBranch: ws-1/saas-prod-1 \nChanges: 2 \nInsertions: 24450 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-23T11:44:55.320+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-06-23T11:44:51.486+00:00",
             "content": "stack Initialized"
         },
         {
@@ -24057,6 +24075,30 @@
         {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Save",
