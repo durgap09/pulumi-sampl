@@ -13033,7 +13033,7 @@
                     "isVisible": true,
                     "propertyCreatedOn": "2022-07-26T10:21:51.511+00:00",
                     "propertyUpdatedOn": "2022-11-15T10:32:34.545+00:00",
-                    "value": "10.32.0/20",
+                    "value": "10.0.32.0/20",
                     "dataType": "string"
                 },
                 {
@@ -22401,7 +22401,7 @@
                     "dataType": "string",
                     "hint": "The CIDR block for the VPC.",
                     "appmodzName": "cidrBlock",
-                    "value": "10.32.0/20"
+                    "value": "10.0.32.0/20"
                 },
                 {
                     "name": "tags",
@@ -24019,7 +24019,25 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-23-2023 05:17 pm",
+            "time": "06-23-2023 05:18 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-06-23T11:48:24.394+00:00",
+            "content": "Previewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/42d39102-a9bb-425c-abbc-82ec6a58d461\n\n@ Previewing update....\n\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi preview --client=127.0.0.1:39489 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-oHn2QU/eventlog.txt --stack saas-prod-1 --non-interactive\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/42d39102-a9bb-425c-abbc-82ec6a58d461\n\n@ Previewing update....\n\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n err?: Error: Command failed with exit code 255: pulumi preview --client=127.0.0.1:39489 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-oHn2QU/eventlog.txt --stack saas-prod-1 --non-interactive\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/42d39102-a9bb-425c-abbc-82ec6a58d461\n\n@ Previewing update....\n\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  aws:ec2:Eip saas-nat-eipid34 create \n    aws:ec2:Vpc saas-vpcid366  error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 6 warnings\n    aws:ec2:Vpc saas-vpcid366  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n\n  aws:ec2:Vpc (saas-vpcid366):\n    error: aws:ec2/vpc:Vpc resource 'saas-vpcid366' has a problem: expected cidr_block to contain a valid Value, got: 10.32.0/20 with err: invalid CIDR address: 10.32.0/20. Examine values at 'Vpc.CidrBlock'.\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 860813be11170d9f936994aa62b4e94bd92b306e \nBranch: ws-1/saas-prod-1 \nChanges: 1 \nInsertions: 94 \nDeletions: 52\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 860813be11170d9f936994aa62b4e94bd92b306e \nBranch: ws-1/saas-prod-1 \nChanges: 1 \nInsertions: 94 \nDeletions: 52\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-23T11:48:01.652+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-06-23T11:47:41.547+00:00",
             "content": "stack Initialized"
         },
         {
@@ -24075,6 +24093,30 @@
         {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Plan",
