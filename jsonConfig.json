@@ -48,7 +48,7 @@
             },
             "isInterface": false,
             "key1": -4,
-            "loc": "-540 -780"
+            "loc": "-300 -680"
         },
         {
             "key": 358,
@@ -111,7 +111,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-1100 -1298",
+            "loc": "-690 -908",
             "group": 99
         },
         {
@@ -175,7 +175,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-1150 -728.0000000000001",
+            "loc": "-870 -428.0000000000001",
             "group": -25
         },
         {
@@ -239,7 +239,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-1010 -728.0000000000001",
+            "loc": "-730 -428.0000000000001",
             "group": -25
         },
         {
@@ -303,7 +303,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-960 -1298",
+            "loc": "-550 -908",
             "group": 99
         },
         {
@@ -367,7 +367,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-870 -728.0000000000001",
+            "loc": "-590 -428.0000000000001",
             "group": -25
         },
         {
@@ -431,7 +431,7 @@
             },
             "isInterface": false,
             "key1": -49,
-            "loc": "-820 -1298",
+            "loc": "-410 -908",
             "group": 99
         },
         {
@@ -495,7 +495,7 @@
             },
             "isInterface": false,
             "key1": -32,
-            "loc": "-1179.5 -1050",
+            "loc": "-799.5 -660",
             "group": -23
         },
         {
@@ -553,7 +553,7 @@
             },
             "isInterface": false,
             "key1": -23,
-            "loc": "-1039.5 -1050",
+            "loc": "-659.5 -660",
             "group": -23
         },
         {
@@ -604,7 +604,7 @@
             },
             "isInterface": false,
             "key1": -18,
-            "loc": "-908 -1050",
+            "loc": "-528 -660",
             "group": -23
         },
         {
@@ -673,7 +673,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2110 -1044",
+            "loc": "-2090 -1032",
             "group": -22
         },
         {
@@ -742,7 +742,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1970 -1044",
+            "loc": "-1950 -1032",
             "group": -22
         },
         {
@@ -811,7 +811,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1830 -1044",
+            "loc": "-1810 -1032",
             "group": -22
         },
         {
@@ -880,7 +880,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2110 -588.461160156251",
+            "loc": "-2110 -604.461160156251",
             "group": -24
         },
         {
@@ -949,7 +949,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1970 -588.461160156251",
+            "loc": "-1970 -604.461160156251",
             "group": -24
         },
         {
@@ -1018,7 +1018,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1830 -588.461160156251",
+            "loc": "-1830 -604.461160156251",
             "group": -24
         },
         {
@@ -1076,7 +1076,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-2110 -869",
+            "loc": "-2090 -857",
             "group": -22
         },
         {
@@ -1134,7 +1134,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-2110 -413.461160156251",
+            "loc": "-2110 -429.461160156251",
             "group": -24
         },
         {
@@ -1248,7 +1248,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-1970 -869",
+            "loc": "-1950 -857",
             "group": -22
         },
         {
@@ -1362,7 +1362,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-1970 -413.461160156251",
+            "loc": "-1970 -429.461160156251",
             "group": -24
         },
         {
@@ -1377,7 +1377,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1160 -1360",
+            "loc": "-750 -970",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1392,7 +1392,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2170 -1122",
+            "loc": "-2150 -1110",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1407,7 +1407,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1270 -1150",
+            "loc": "-890 -760",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1422,7 +1422,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2170 -666.461160156251",
+            "loc": "-2170 -682.461160156251",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1437,7 +1437,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1210 -790.0000000000001",
+            "loc": "-930 -490.0000000000001",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1495,7 +1495,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-740 -519.038916015625",
+            "loc": "-110 -1169.9999160156249",
             "group": -30
         },
         {
@@ -1559,7 +1559,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-600 -519.038916015625",
+            "loc": "30 -1169.9999160156249",
             "group": -30
         },
         {
@@ -1623,7 +1623,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-460 -519.038916015625",
+            "loc": "170 -1169.9999160156249",
             "group": -30
         },
         {
@@ -1692,7 +1692,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-1830 -869",
+            "loc": "-1810 -857",
             "group": -22
         },
         {
@@ -1707,7 +1707,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-800 -611.538916015625",
+            "loc": "-170 -1270",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1765,7 +1765,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-1632 -1350.961",
+            "loc": "-1242 -1390.961",
             "group": -36
         },
         {
@@ -1829,7 +1829,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1492 -1350.961",
+            "loc": "-1102 -1390.961",
             "group": -36
         },
         {
@@ -1893,7 +1893,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1352 -1350.961",
+            "loc": "-962 -1390.961",
             "group": -36
         },
         {
@@ -1957,7 +1957,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1632 -1175.961",
+            "loc": "-1242 -1215.961",
             "group": -36
         },
         {
@@ -2021,7 +2021,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1492 -1175.961",
+            "loc": "-1102 -1215.961",
             "group": -36
         },
         {
@@ -2036,7 +2036,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-1730 -1450",
+            "loc": "-1340 -1490",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2105,7 +2105,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-2090 -1278",
+            "loc": "-2080 -1358",
             "group": -39
         },
         {
@@ -2174,7 +2174,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-1950 -1278",
+            "loc": "-1940 -1358",
             "group": -39
         },
         {
@@ -2189,7 +2189,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-2150 -1340",
+            "loc": "-2140 -1420",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2247,7 +2247,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-660.0000000000002 -1306",
+            "loc": "-660.0000000000002 -1344",
             "group": -52
         },
         {
@@ -2305,7 +2305,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1610 -786",
+            "loc": "-1260 -740.961",
             "group": -47
         },
         {
@@ -2363,7 +2363,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-1470 -786",
+            "loc": "-1120 -740.961",
             "group": -47
         },
         {
@@ -2421,7 +2421,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-520.0000000000002 -1306",
+            "loc": "-520.0000000000002 -1344",
             "group": -52
         },
         {
@@ -2472,7 +2472,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1338.5 -786",
+            "loc": "-988.5 -740.961",
             "group": -47
         },
         {
@@ -2523,7 +2523,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-1618.5 -576",
+            "loc": "-1268.5 -530.961",
             "group": -47
         },
         {
@@ -2538,7 +2538,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1670 -886",
+            "loc": "-1320 -840.961",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2589,7 +2589,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-388.5000000000002 -1306",
+            "loc": "-388.5000000000002 -1344",
             "group": -52
         },
         {
@@ -2640,7 +2640,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-668.5000000000002 -1096",
+            "loc": "-668.5000000000002 -1134",
             "group": -52
         },
         {
@@ -2691,7 +2691,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-563.5000000000002 -1096",
+            "loc": "-563.5000000000002 -1134",
             "group": -52
         },
         {
@@ -2706,7 +2706,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -3,
-            "loc": "-720.0000000000002 -1406",
+            "loc": "-720.0000000000002 -1444",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2757,7 +2757,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1513.5 -576",
+            "loc": "-1163.5 -530.961",
             "group": -47
         },
         {
@@ -2808,7 +2808,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-1408.5 -576",
+            "loc": "-1058.5 -530.961",
             "group": -47
         },
         {
@@ -2866,7 +2866,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1610 -401",
+            "loc": "-1260 -355.961",
             "group": -47
         },
         {
@@ -2924,7 +2924,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-1470 -401",
+            "loc": "-1120 -355.961",
             "group": -47
         },
         {
@@ -2993,7 +2993,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-1810 -1278",
+            "loc": "-1800 -1358",
             "group": -39
         }
     ],
@@ -14311,6 +14311,13 @@
                 "arn"
             ],
             "text": ""
+        },
+        {
+            "from": -56,
+            "to": -55,
+            "fromPort": "port-connection",
+            "toPort": "port-targetId",
+            "key": -70
         }
     ],
     "completeProperties": [
@@ -26801,7 +26808,31 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-28-2023 04:28 pm",
+            "time": "06-28-2023 04:33 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-06-28T11:02:13.088+00:00",
+            "content": "Previewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/1cf21264-99b1-421d-b11b-498069047dfb\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n@ Previewing update....\n +  aws:ec2:Eip saas-nat-eipid34 create \n +  aws:ec2:Vpc saas-vpcid366 create \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 create \n +  aws:ec2:Subnet pub-1id-5 create \n +  aws:ec2:InternetGateway saas-igwid39 create \n +  aws:ec2:Subnet pub-2id-7 create \n +  aws:ec2:RouteTable pub-RTid354 create \n +  aws:ec2:Subnet pub-3id358 create \n +  aws:ec2:Subnet pvt-1id-6 create \n +  aws:ec2:Subnet pvt-2id-3 create \n +  aws:ec2:Subnet pvt-3id-4 create \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 create \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 create \n +  aws:ec2:RouteTable pvt-RTid-18 create \n +  aws:ec2:SecurityGroup saas-jumpid334 create \n +  aws:ec2:SecurityGroup internal-saasid373 create \n +  aws:ec2:NatGateway saas-natgwid48 create \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 create \n +  aws:ec2:Route pub-routeid353 create \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 create \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 create \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 create \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 create \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 create \n +  aws:ec2:Instance jump-saasid328 create \n +  aws:ec2:SecurityGroupRule RDPid335 create \n +  aws:ec2:SecurityGroupRule egressid-28 create \n +  aws:ec2:Route pvt-routeid-20 create \n +  aws:ec2:SecurityGroupRule 443id374 create \n +  aws:ec2:SecurityGroupRule 80id-33 create \n +  aws:ec2:SecurityGroupRule internalid-34 create \n +  aws:ec2:SecurityGroupRule egressid-35 create \n +  aws:ec2:Instance saas-adminid329 create \n +  aws:ec2:Instance saas-appid-37 create \n +  aws:lb:LoadBalancer saas-app-albid117 create \n +  aws:lb:LoadBalancer saas-admin-albid-49 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 create \n +  aws:lb:Listener saas-app-listner-3006id-53 create \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 create \n +  aws:lb:Listener saas-app-listner-3005id120 create \n +  aws:lb:Listener saas-admin-listnerid-50 create \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 4 errors; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Missing required property 'targetId'\n\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi preview --client=127.0.0.1:42649 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-UHXXGL/eventlog.txt --stack saas-prod-1 --non-interactive\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/1cf21264-99b1-421d-b11b-498069047dfb\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n@ Previewing update....\n +  aws:ec2:Eip saas-nat-eipid34 create \n +  aws:ec2:Vpc saas-vpcid366 create \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 create \n +  aws:ec2:Subnet pub-1id-5 create \n +  aws:ec2:InternetGateway saas-igwid39 create \n +  aws:ec2:Subnet pub-2id-7 create \n +  aws:ec2:RouteTable pub-RTid354 create \n +  aws:ec2:Subnet pub-3id358 create \n +  aws:ec2:Subnet pvt-1id-6 create \n +  aws:ec2:Subnet pvt-2id-3 create \n +  aws:ec2:Subnet pvt-3id-4 create \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 create \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 create \n +  aws:ec2:RouteTable pvt-RTid-18 create \n +  aws:ec2:SecurityGroup saas-jumpid334 create \n +  aws:ec2:SecurityGroup internal-saasid373 create \n +  aws:ec2:NatGateway saas-natgwid48 create \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 create \n +  aws:ec2:Route pub-routeid353 create \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 create \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 create \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 create \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 create \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 create \n +  aws:ec2:Instance jump-saasid328 create \n +  aws:ec2:SecurityGroupRule RDPid335 create \n +  aws:ec2:SecurityGroupRule egressid-28 create \n +  aws:ec2:Route pvt-routeid-20 create \n +  aws:ec2:SecurityGroupRule 443id374 create \n +  aws:ec2:SecurityGroupRule 80id-33 create \n +  aws:ec2:SecurityGroupRule internalid-34 create \n +  aws:ec2:SecurityGroupRule egressid-35 create \n +  aws:ec2:Instance saas-adminid329 create \n +  aws:ec2:Instance saas-appid-37 create \n +  aws:lb:LoadBalancer saas-app-albid117 create \n +  aws:lb:LoadBalancer saas-admin-albid-49 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 create \n +  aws:lb:Listener saas-app-listner-3006id-53 create \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 create \n +  aws:lb:Listener saas-app-listner-3005id120 create \n +  aws:lb:Listener saas-admin-listnerid-50 create \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 4 errors; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Missing required property 'targetId'\n\n\n err?: Error: Command failed with exit code 255: pulumi preview --client=127.0.0.1:42649 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-UHXXGL/eventlog.txt --stack saas-prod-1 --non-interactive\nPreviewing update (saas-prod-1)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-1/previews/1cf21264-99b1-421d-b11b-498069047dfb\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Unhandled exception: Error: Missing required property 'targetId'\n@ Previewing update....\n +  aws:ec2:Eip saas-nat-eipid34 create \n +  aws:ec2:Vpc saas-vpcid366 create \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 create \n +  aws:ec2:Subnet pub-1id-5 create \n +  aws:ec2:InternetGateway saas-igwid39 create \n +  aws:ec2:Subnet pub-2id-7 create \n +  aws:ec2:RouteTable pub-RTid354 create \n +  aws:ec2:Subnet pub-3id358 create \n +  aws:ec2:Subnet pvt-1id-6 create \n +  aws:ec2:Subnet pvt-2id-3 create \n +  aws:ec2:Subnet pvt-3id-4 create \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 create \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 create \n +  aws:ec2:RouteTable pvt-RTid-18 create \n +  aws:ec2:SecurityGroup saas-jumpid334 create \n +  aws:ec2:SecurityGroup internal-saasid373 create \n +  aws:ec2:NatGateway saas-natgwid48 create \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 create \n +  aws:ec2:Route pub-routeid353 create \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 create \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 create \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 create \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 create \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 create \n +  aws:ec2:Instance jump-saasid328 create \n +  aws:ec2:SecurityGroupRule RDPid335 create \n +  aws:ec2:SecurityGroupRule egressid-28 create \n +  aws:ec2:Route pvt-routeid-20 create \n +  aws:ec2:SecurityGroupRule 443id374 create \n +  aws:ec2:SecurityGroupRule 80id-33 create \n +  aws:ec2:SecurityGroupRule internalid-34 create \n +  aws:ec2:SecurityGroupRule egressid-35 create \n +  aws:ec2:Instance saas-adminid329 create \n +  aws:ec2:Instance saas-appid-37 create \n +  aws:lb:LoadBalancer saas-app-albid117 create \n +  aws:lb:LoadBalancer saas-admin-albid-49 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 create \n +  aws:lb:Listener saas-app-listner-3006id-53 create \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 create \n +  aws:lb:Listener saas-app-listner-3005id120 create \n +  aws:lb:Listener saas-admin-listnerid-50 create \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 create \n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create error: Missing required property 'targetId'\n +  pulumi:pulumi:Stack ws-1-saas-prod-1 create 4 errors; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-1):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Unhandled exception: Error: Missing required property 'targetId'\n        at new TargetGroupAttachment (/docker-entrypoint-initdb.d/node_modules/@pulumi/applicationloadbalancing/targetGroupAttachment.ts:129:23)\n        at /home/execution-module/284906/508672/pulumiProgram.js:304:38\n        at Generator.next (<anonymous>)\n        at /home/execution-module/284906/508672/pulumiProgram.js:8:71\n        at new Promise (<anonymous>)\n        at __awaiter (/home/execution-module/284906/508672/pulumiProgram.js:4:12)\n        at Object.init (/home/execution-module/284906/508672/pulumiProgram.js:12:72)\n        at Stack.<anonymous> (/docker-entrypoint-initdb.d/node_modules/@pulumi/runtime/stack.ts:77:39)\n        at Generator.next (<anonymous>)\n        at fulfilled (/docker-entrypoint-initdb.d/node_modules/@pulumi/pulumi/runtime/stack.js:18:58)\n    error: Missing required property 'targetId'\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 7a0d877fa86ccd059fee24ade505ebd912085280 \nBranch: ws-1/saas-prod-1 \nChanges: 1 \nInsertions: 539 \nDeletions: 50\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 7a0d877fa86ccd059fee24ade505ebd912085280 \nBranch: ws-1/saas-prod-1 \nChanges: 1 \nInsertions: 539 \nDeletions: 50\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-28T11:01:59.035+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-28T10:58:41.471+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-06-28T10:58:16.564+00:00",
             "content": "stack Initialized"
         },
         {
@@ -27031,6 +27062,38 @@
         {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Plan",
