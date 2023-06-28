@@ -65,7 +65,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -129,7 +129,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -193,7 +193,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -257,7 +257,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -321,7 +321,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -385,7 +385,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 113
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -449,7 +449,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "allocationId",
                     "portId": "port-allocationId",
-                    "componentKey": 111
+                    "componentKey": 128
                 }
             ],
             "topArray": [
@@ -513,7 +513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 329
+                    "componentKey": 336
                 }
             ],
             "topArray": [
@@ -622,7 +622,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -691,7 +691,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -760,7 +760,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -829,7 +829,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -898,7 +898,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -967,7 +967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 348
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -1036,7 +1036,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 347
+                    "componentKey": 354
                 }
             ],
             "topArray": [
@@ -1094,7 +1094,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 347
+                    "componentKey": 354
                 }
             ],
             "topArray": [
@@ -1152,7 +1152,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 346
+                    "componentKey": 353
                 },
                 {
                     "portColor": "#9c0202",
@@ -1266,7 +1266,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 346
+                    "componentKey": 353
                 },
                 {
                     "portColor": "#9c0202",
@@ -1455,7 +1455,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 349
+                    "componentKey": 356
                 }
             ],
             "topArray": [
@@ -1513,7 +1513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1577,7 +1577,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1641,7 +1641,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 109
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -1725,7 +1725,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 349
+                    "componentKey": 356
                 }
             ],
             "topArray": [
@@ -1783,7 +1783,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1847,7 +1847,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1911,7 +1911,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1975,7 +1975,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 350
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -2054,7 +2054,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 109
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2123,7 +2123,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 109
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2207,7 +2207,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 64
+                    "componentKey": 79
                 }
             ],
             "topArray": [
@@ -2265,7 +2265,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 64
+                    "componentKey": 79
                 }
             ],
             "topArray": [
@@ -2323,7 +2323,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 65
+                    "componentKey": 80
                 }
             ],
             "topArray": [
@@ -2381,7 +2381,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 65
+                    "componentKey": 80
                 }
             ],
             "topArray": [
@@ -2826,7 +2826,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 64
+                    "componentKey": 79
                 }
             ],
             "topArray": [
@@ -2884,7 +2884,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 65
+                    "componentKey": 80
                 }
             ],
             "topArray": [
@@ -2942,7 +2942,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 109
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -26794,7 +26794,25 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-28-2023 06:41 pm",
+            "time": "06-28-2023 06:45 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-06-28T13:12:13.034+00:00",
+            "content": "Previewing update (saas-prod-test-deployment)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-test-deployment/previews/e30cec18-5021-4d5e-be29-dda7e6bc6954\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create \n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-test-deployment):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: fae2c000-6a2c-42d0-b6d3-88142e334b47\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 3b8a780e-b596-4a08-97b2-a961e848f630\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 41c051a1-6a93-4273-b07f-5a8cfc394044\n\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi preview --client=127.0.0.1:42575 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-W402CQ/eventlog.txt --stack saas-prod-test-deployment --non-interactive\nPreviewing update (saas-prod-test-deployment)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-test-deployment/previews/e30cec18-5021-4d5e-be29-dda7e6bc6954\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create \n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-test-deployment):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: fae2c000-6a2c-42d0-b6d3-88142e334b47\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 3b8a780e-b596-4a08-97b2-a961e848f630\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 41c051a1-6a93-4273-b07f-5a8cfc394044\n\n\n err?: Error: Command failed with exit code 255: pulumi preview --client=127.0.0.1:42575 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-W402CQ/eventlog.txt --stack saas-prod-test-deployment --non-interactive\nPreviewing update (saas-prod-test-deployment)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/saas-prod-test-deployment/previews/e30cec18-5021-4d5e-be29-dda7e6bc6954\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create \n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-saas-prod-test-deployment create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-saas-prod-test-deployment):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: fae2c000-6a2c-42d0-b6d3-88142e334b47\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 3b8a780e-b596-4a08-97b2-a961e848f630\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 41c051a1-6a93-4273-b07f-5a8cfc394044\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 8f858fc8b7a7dce60f01b60f7444526a93e31935 \nBranch: ws-1/saas-prod-test-deployment \nChanges: 1 \nInsertions: 48 \nDeletions: 2\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 8f858fc8b7a7dce60f01b60f7444526a93e31935 \nBranch: ws-1/saas-prod-test-deployment \nChanges: 1 \nInsertions: 48 \nDeletions: 2\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-28T13:12:00.416+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-06-28T13:11:56.162+00:00",
             "content": "stack Initialized"
         },
         {
@@ -26826,6 +26844,30 @@
         {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Plan",
