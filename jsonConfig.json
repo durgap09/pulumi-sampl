@@ -5,7 +5,7 @@
             "name": "Vpc",
             "figure": "RoundedRectangle",
             "otherName": "qmcloud-use2-saas-prod",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS VPC Service.png",
             "viewName": "Vpc",
             "size": "100 auto",
@@ -513,7 +513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 330
+                    "componentKey": 336
                 }
             ],
             "topArray": [
@@ -622,7 +622,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -691,7 +691,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -760,7 +760,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -829,7 +829,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -898,7 +898,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -967,7 +967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 349
+                    "componentKey": 355
                 },
                 {
                     "portColor": "#9c0202",
@@ -1036,7 +1036,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 348
+                    "componentKey": 354
                 }
             ],
             "topArray": [
@@ -1094,7 +1094,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 348
+                    "componentKey": 354
                 }
             ],
             "topArray": [
@@ -1152,7 +1152,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 347
+                    "componentKey": 353
                 },
                 {
                     "portColor": "#9c0202",
@@ -1266,7 +1266,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 347
+                    "componentKey": 353
                 },
                 {
                     "portColor": "#9c0202",
@@ -1445,7 +1445,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-jump",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -1455,7 +1455,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 350
+                    "componentKey": 356
                 }
             ],
             "topArray": [
@@ -1503,7 +1503,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "RDP",
-            "canvasState": "",
+            "canvasState": "notDeployedIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1513,7 +1513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1577,7 +1577,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1631,7 +1631,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "jump-saas",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1715,7 +1715,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "internal-saas",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -1725,7 +1725,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 350
+                    "componentKey": 356
                 }
             ],
             "topArray": [
@@ -1783,7 +1783,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1847,7 +1847,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -1916,7 +1916,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-app",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1985,7 +1985,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -2079,7 +2079,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 87
+                    "componentKey": 81
                 }
             ],
             "topArray": [
@@ -2137,7 +2137,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 87
+                    "componentKey": 81
                 }
             ],
             "topArray": [
@@ -2195,7 +2195,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 88
+                    "componentKey": 82
                 }
             ],
             "topArray": [
@@ -2253,7 +2253,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 88
+                    "componentKey": 82
                 }
             ],
             "topArray": [
@@ -2345,57 +2345,6 @@
             "isInterface": false,
             "key1": -1,
             "loc": "-1378.5 -1670",
-            "group": -47
-        },
-        {
-            "key": 120,
-            "name": "Listener",
-            "figure": "RoundedRectangle",
-            "otherName": "saas-app-listner-3005",
-            "canvasState": "deleteIcon",
-            "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
-            "viewName": "Listener",
-            "size": "100 auto",
-            "fill": "lightgray",
-            "leftArray": [],
-            "topArray": [
-                {
-                    "portColor": "#4c9126",
-                    "portTitle": "connection",
-                    "portId": "port-connection",
-                    "fromLinkable": true,
-                    "toLinkable": false
-                },
-                {
-                    "portColor": "#8f8801",
-                    "portTitle": "dynamicConnection",
-                    "portId": "port-dynamicConnection",
-                    "fromLinkable": false,
-                    "toLinkable": true
-                }
-            ],
-            "topYellowArray": [],
-            "bottomArray": [],
-            "rightArray": [],
-            "visible": true,
-            "componentId": 300500,
-            "componentCategory": {
-                "componentCategoryId": 300054,
-                "componentCategoryName": "lb",
-                "cloudPlatform": {
-                    "cloudPlatformId": 10,
-                    "cloudPlatformName": "aws",
-                    "cloudPlatformAppmodzName": "aws",
-                    "cloudPlatformPulumiLibrary": "@pulumi/aws",
-                    "cloudPlatformCreatedOn": "2022-07-13T11:32:27.913+00:00",
-                    "cloudPlatformUpdatedOn": "2022-07-13T11:32:27.913+00:00"
-                },
-                "componentCategoryCreatedOn": "2022-12-29T01:15:48.155+00:00",
-                "componentCategoryUpdatedOn": "2022-12-29T01:15:48.155+00:00"
-            },
-            "isInterface": false,
-            "key1": -5,
-            "loc": "-1658.5 -1460",
             "group": -47
         },
         {
@@ -2520,7 +2469,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "443-saas-admin-listener",
-            "canvasState": "",
+            "canvasState": "editIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -2586,7 +2535,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "443-listner-saas-app",
-            "canvasState": "",
+            "canvasState": "editIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -2633,57 +2582,6 @@
             "group": -47
         },
         {
-            "key": -53,
-            "name": "Listener",
-            "figure": "RoundedRectangle",
-            "otherName": "saas-app-listner-3006",
-            "canvasState": "deleteIcon",
-            "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
-            "viewName": "Listener",
-            "size": "100 auto",
-            "fill": "lightgray",
-            "leftArray": [],
-            "topArray": [
-                {
-                    "portColor": "#4c9126",
-                    "portTitle": "connection",
-                    "portId": "port-connection",
-                    "fromLinkable": true,
-                    "toLinkable": false
-                },
-                {
-                    "portColor": "#8f8801",
-                    "portTitle": "dynamicConnection",
-                    "portId": "port-dynamicConnection",
-                    "fromLinkable": false,
-                    "toLinkable": true
-                }
-            ],
-            "topYellowArray": [],
-            "bottomArray": [],
-            "rightArray": [],
-            "visible": true,
-            "componentId": 300500,
-            "componentCategory": {
-                "componentCategoryId": 300054,
-                "componentCategoryName": "lb",
-                "cloudPlatform": {
-                    "cloudPlatformId": 10,
-                    "cloudPlatformName": "aws",
-                    "cloudPlatformAppmodzName": "aws",
-                    "cloudPlatformPulumiLibrary": "@pulumi/aws",
-                    "cloudPlatformCreatedOn": "2022-07-13T11:32:27.913+00:00",
-                    "cloudPlatformUpdatedOn": "2022-07-13T11:32:27.913+00:00"
-                },
-                "componentCategoryCreatedOn": "2022-12-29T01:15:48.155+00:00",
-                "componentCategoryUpdatedOn": "2022-12-29T01:15:48.155+00:00"
-            },
-            "isInterface": false,
-            "key1": -5,
-            "loc": "-1448.5 -1460",
-            "group": -47
-        },
-        {
             "key": -54,
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
@@ -2698,7 +2596,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 87
+                    "componentKey": 81
                 }
             ],
             "topArray": [
@@ -2756,7 +2654,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 88
+                    "componentKey": 82
                 }
             ],
             "topArray": [
@@ -2804,7 +2702,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -2873,7 +2771,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-ALB-group",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -2883,7 +2781,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 350
+                    "componentKey": 356
                 }
             ],
             "topArray": [
@@ -2931,7 +2829,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "80-all",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2941,7 +2839,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -2995,7 +2893,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "vpc-internal",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3005,7 +2903,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -3059,7 +2957,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "443-all",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3069,7 +2967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -3123,7 +3021,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3133,7 +3031,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 351
+                    "componentKey": 357
                 }
             ],
             "topArray": [
@@ -3194,14 +3092,15 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2885.5 -1992.6167480468753"
+            "loc": "-2889.5 -1992.6167480468753",
+            "canvasState": "notDeployedIcon"
         },
         {
             "key": -63,
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "Http-80",
-            "canvasState": "editIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -6179,588 +6078,6 @@
             ],
             "fromString": [
                 "id"
-            ],
-            "text": ""
-        },
-        {
-            "from": 117,
-            "fromPort": "port-connection",
-            "to": 120,
-            "toPort": "port-dynamicConnection",
-            "key": 235,
-            "toJson": [
-                [
-                    {
-                        "options": [
-                            {
-                                "id": 300501,
-                                "name": "alpnPolicy",
-                                "hint": "Name of the Application-Layer Protocol Negotiation (ALPN) policy. Can be set if `protocol` is `TLS`. Valid values are `HTTP1Only`, `HTTP2Only`, `HTTP2Optional`, `HTTP2Preferred`, and `None`.",
-                                "appmodzName": "alpnPolicy",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00"
-                            },
-                            {
-                                "id": 300502,
-                                "name": "certificateArn",
-                                "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
-                                "appmodzName": "certificateArn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00"
-                            },
-                            {
-                                "id": 300503,
-                                "name": "defaultActions",
-                                "hint": "Configuration block for default actions. Detailed below.",
-                                "appmodzName": "defaultActions",
-                                "type": "array",
-                                "interfaceName": "ListenerDefaultAction",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "expectsInterface": true,
-                                "isConnectable": false,
-                                "isMandatory": true,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300504,
-                                "name": "loadBalancerArn",
-                                "hint": "ARN of the load balancer.",
-                                "appmodzName": "loadBalancerArn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": true,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300505,
-                                "name": "port",
-                                "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                                "appmodzName": "port",
-                                "type": "number",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300506,
-                                "name": "protocol",
-                                "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                                "appmodzName": "protocol",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300507,
-                                "name": "sslPolicy",
-                                "hint": "Name of the SSL Policy for the listener. Required if `protocol` is `HTTPS` or `TLS`.",
-                                "appmodzName": "sslPolicy",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
-                            },
-                            {
-                                "id": 300508,
-                                "name": "tags",
-                                "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                                "appmodzName": "tags",
-                                "type": "map",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
-                            },
-                            {
-                                "id": 300509,
-                                "name": "name",
-                                "hint": null,
-                                "appmodzName": "name",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
-                            }
-                        ],
-                        "type": "object",
-                        "apiType": "object",
-                        "value": "loadBalancerArn",
-                        "posValue": ""
-                    }
-                ]
-            ],
-            "fromJson": [
-                [
-                    {
-                        "options": [
-                            {
-                                "id": 300563,
-                                "name": "accessLogs",
-                                "hint": "An Access Logs block. Access Logs documented below.",
-                                "appmodzName": "accessLogs",
-                                "type": "object",
-                                "interfaceName": "LoadBalancerAccessLogs",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300564,
-                                "name": "arn",
-                                "hint": "The ARN of the load balancer (matches `id`).",
-                                "appmodzName": "arn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300565,
-                                "name": "arnSuffix",
-                                "hint": "The ARN suffix for use with CloudWatch Metrics.",
-                                "appmodzName": "arnSuffix",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300566,
-                                "name": "customerOwnedIpv4Pool",
-                                "hint": "The ID of the customer owned ipv4 pool to use for this load balancer.",
-                                "appmodzName": "customerOwnedIpv4Pool",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300567,
-                                "name": "desyncMitigationMode",
-                                "hint": "Determines how the load balancer handles requests that might pose a security risk to an application due to HTTP desync. Valid values are `monitor`, `defensive` (default), `strictest`.",
-                                "appmodzName": "desyncMitigationMode",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300568,
-                                "name": "dnsName",
-                                "hint": "The DNS name of the load balancer.",
-                                "appmodzName": "dnsName",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300569,
-                                "name": "dropInvalidHeaderFields",
-                                "hint": "Indicates whether HTTP headers with header fields that are not valid are removed by the load balancer (true) or routed to targets (false). The default is false. Elastic Load Balancing requires that message header names contain only alphanumeric characters and hyphens. Only valid for Load Balancers of type `application`.",
-                                "appmodzName": "dropInvalidHeaderFields",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300570,
-                                "name": "enableCrossZoneLoadBalancing",
-                                "hint": "If true, cross-zone load balancing of the load balancer will be enabled.\nThis is a `network` load balancer feature. Defaults to `false`.",
-                                "appmodzName": "enableCrossZoneLoadBalancing",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300571,
-                                "name": "enableDeletionProtection",
-                                "hint": "If true, deletion of the load balancer will be disabled via\nthe AWS API. This will prevent this provider from deleting the load balancer. Defaults to `false`.",
-                                "appmodzName": "enableDeletionProtection",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300572,
-                                "name": "enableHttp2",
-                                "hint": "Indicates whether HTTP/2 is enabled in `application` load balancers. Defaults to `true`.",
-                                "appmodzName": "enableHttp2",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300573,
-                                "name": "enableWafFailOpen",
-                                "hint": "Indicates whether to allow a WAF-enabled load balancer to route requests to targets if it is unable to forward the request to AWS WAF. Defaults to `false`.",
-                                "appmodzName": "enableWafFailOpen",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300574,
-                                "name": "idleTimeout",
-                                "hint": "The time in seconds that the connection is allowed to be idle. Only valid for Load Balancers of type `application`. Default: 60.",
-                                "appmodzName": "idleTimeout",
-                                "type": "number",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300575,
-                                "name": "internal",
-                                "hint": "If true, the LB will be internal.",
-                                "appmodzName": "internal",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300576,
-                                "name": "ipAddressType",
-                                "hint": "The type of IP addresses used by the subnets for your load balancer. The possible values are `ipv4` and `dualstack`",
-                                "appmodzName": "ipAddressType",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300577,
-                                "name": "loadBalancerType",
-                                "hint": "The type of load balancer to create. Possible values are `application`, `gateway`, or `network`. The default value is `application`.",
-                                "appmodzName": "loadBalancerType",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300578,
-                                "name": "name",
-                                "hint": "The name of the LB. This name must be unique within your AWS account, can have a maximum of 32 characters,\nmust contain only alphanumeric characters or hyphens, and must not begin or end with a hyphen. If not specified,\nthis provider will autogenerate a name beginning with `tf-lb`.",
-                                "appmodzName": "name",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300579,
-                                "name": "namePrefix",
-                                "hint": "Creates a unique name beginning with the specified prefix. Conflicts with `name`.",
-                                "appmodzName": "namePrefix",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300580,
-                                "name": "securityGroups",
-                                "hint": "A list of security group IDs to assign to the LB. Only valid for Load Balancers of type `application`.",
-                                "appmodzName": "securityGroups",
-                                "type": "string array",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300581,
-                                "name": "subnetMappings",
-                                "hint": "A subnet mapping block as documented below.",
-                                "appmodzName": "subnetMappings",
-                                "type": "array",
-                                "interfaceName": "LoadBalancerSubnetMapping",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300582,
-                                "name": "subnets",
-                                "hint": "A list of subnet IDs to attach to the LB. Subnets\ncannot be updated for Load Balancers of type `network`. Changing this value\nfor load balancers of type `network` will force a recreation of the resource.",
-                                "appmodzName": "subnets",
-                                "type": "string array",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300583,
-                                "name": "tags",
-                                "hint": "A map of tags to assign to the resource. If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                                "appmodzName": "tags",
-                                "type": "any",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300584,
-                                "name": "tagsAll",
-                                "hint": "A map of tags assigned to the resource, including those inherited from the provider .",
-                                "appmodzName": "tagsAll",
-                                "type": "any",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300585,
-                                "name": "vpcId",
-                                "hint": null,
-                                "appmodzName": "vpcId",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": true,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300586,
-                                "name": "zoneId",
-                                "hint": "The canonical hosted zone ID of the load balancer (to be used in a Route 53 Alias record).\n* `subnet_mapping.*.outpost_id` - ID of the Outpost containing the load balancer.",
-                                "appmodzName": "zoneId",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": true,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300587,
-                                "name": "id",
-                                "hint": "Pulumi defined id of component",
-                                "appmodzName": "id",
-                                "type": null,
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": null,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            }
-                        ],
-                        "type": "object",
-                        "apiType": "object",
-                        "value": "arn",
-                        "posValue": ""
-                    }
-                ]
-            ],
-            "toString": [
-                "loadBalancerArn"
-            ],
-            "fromString": [
-                "arn"
             ],
             "text": ""
         },
@@ -10472,588 +9789,6 @@
                                 "isVisible": true,
                                 "propertyCreatedOn": "2023-01-09T12:09:51.826+00:00",
                                 "propertyUpdatedOn": "2023-01-09T12:09:51.826+00:00"
-                            }
-                        ],
-                        "type": "object",
-                        "apiType": "object",
-                        "value": "loadBalancerArn",
-                        "posValue": ""
-                    }
-                ]
-            ],
-            "fromJson": [
-                [
-                    {
-                        "options": [
-                            {
-                                "id": 300563,
-                                "name": "accessLogs",
-                                "hint": "An Access Logs block. Access Logs documented below.",
-                                "appmodzName": "accessLogs",
-                                "type": "object",
-                                "interfaceName": "LoadBalancerAccessLogs",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300564,
-                                "name": "arn",
-                                "hint": "The ARN of the load balancer (matches `id`).",
-                                "appmodzName": "arn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300565,
-                                "name": "arnSuffix",
-                                "hint": "The ARN suffix for use with CloudWatch Metrics.",
-                                "appmodzName": "arnSuffix",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300566,
-                                "name": "customerOwnedIpv4Pool",
-                                "hint": "The ID of the customer owned ipv4 pool to use for this load balancer.",
-                                "appmodzName": "customerOwnedIpv4Pool",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.522+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.522+00:00"
-                            },
-                            {
-                                "id": 300567,
-                                "name": "desyncMitigationMode",
-                                "hint": "Determines how the load balancer handles requests that might pose a security risk to an application due to HTTP desync. Valid values are `monitor`, `defensive` (default), `strictest`.",
-                                "appmodzName": "desyncMitigationMode",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300568,
-                                "name": "dnsName",
-                                "hint": "The DNS name of the load balancer.",
-                                "appmodzName": "dnsName",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300569,
-                                "name": "dropInvalidHeaderFields",
-                                "hint": "Indicates whether HTTP headers with header fields that are not valid are removed by the load balancer (true) or routed to targets (false). The default is false. Elastic Load Balancing requires that message header names contain only alphanumeric characters and hyphens. Only valid for Load Balancers of type `application`.",
-                                "appmodzName": "dropInvalidHeaderFields",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300570,
-                                "name": "enableCrossZoneLoadBalancing",
-                                "hint": "If true, cross-zone load balancing of the load balancer will be enabled.\nThis is a `network` load balancer feature. Defaults to `false`.",
-                                "appmodzName": "enableCrossZoneLoadBalancing",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300571,
-                                "name": "enableDeletionProtection",
-                                "hint": "If true, deletion of the load balancer will be disabled via\nthe AWS API. This will prevent this provider from deleting the load balancer. Defaults to `false`.",
-                                "appmodzName": "enableDeletionProtection",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300572,
-                                "name": "enableHttp2",
-                                "hint": "Indicates whether HTTP/2 is enabled in `application` load balancers. Defaults to `true`.",
-                                "appmodzName": "enableHttp2",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.523+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.523+00:00"
-                            },
-                            {
-                                "id": 300573,
-                                "name": "enableWafFailOpen",
-                                "hint": "Indicates whether to allow a WAF-enabled load balancer to route requests to targets if it is unable to forward the request to AWS WAF. Defaults to `false`.",
-                                "appmodzName": "enableWafFailOpen",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300574,
-                                "name": "idleTimeout",
-                                "hint": "The time in seconds that the connection is allowed to be idle. Only valid for Load Balancers of type `application`. Default: 60.",
-                                "appmodzName": "idleTimeout",
-                                "type": "number",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300575,
-                                "name": "internal",
-                                "hint": "If true, the LB will be internal.",
-                                "appmodzName": "internal",
-                                "type": "boolean",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300576,
-                                "name": "ipAddressType",
-                                "hint": "The type of IP addresses used by the subnets for your load balancer. The possible values are `ipv4` and `dualstack`",
-                                "appmodzName": "ipAddressType",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300577,
-                                "name": "loadBalancerType",
-                                "hint": "The type of load balancer to create. Possible values are `application`, `gateway`, or `network`. The default value is `application`.",
-                                "appmodzName": "loadBalancerType",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300578,
-                                "name": "name",
-                                "hint": "The name of the LB. This name must be unique within your AWS account, can have a maximum of 32 characters,\nmust contain only alphanumeric characters or hyphens, and must not begin or end with a hyphen. If not specified,\nthis provider will autogenerate a name beginning with `tf-lb`.",
-                                "appmodzName": "name",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.524+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.524+00:00"
-                            },
-                            {
-                                "id": 300579,
-                                "name": "namePrefix",
-                                "hint": "Creates a unique name beginning with the specified prefix. Conflicts with `name`.",
-                                "appmodzName": "namePrefix",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300580,
-                                "name": "securityGroups",
-                                "hint": "A list of security group IDs to assign to the LB. Only valid for Load Balancers of type `application`.",
-                                "appmodzName": "securityGroups",
-                                "type": "string array",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300581,
-                                "name": "subnetMappings",
-                                "hint": "A subnet mapping block as documented below.",
-                                "appmodzName": "subnetMappings",
-                                "type": "array",
-                                "interfaceName": "LoadBalancerSubnetMapping",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300582,
-                                "name": "subnets",
-                                "hint": "A list of subnet IDs to attach to the LB. Subnets\ncannot be updated for Load Balancers of type `network`. Changing this value\nfor load balancers of type `network` will force a recreation of the resource.",
-                                "appmodzName": "subnets",
-                                "type": "string array",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300583,
-                                "name": "tags",
-                                "hint": "A map of tags to assign to the resource. If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                                "appmodzName": "tags",
-                                "type": "any",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.525+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.525+00:00"
-                            },
-                            {
-                                "id": 300584,
-                                "name": "tagsAll",
-                                "hint": "A map of tags assigned to the resource, including those inherited from the provider .",
-                                "appmodzName": "tagsAll",
-                                "type": "any",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300585,
-                                "name": "vpcId",
-                                "hint": null,
-                                "appmodzName": "vpcId",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": true,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300586,
-                                "name": "zoneId",
-                                "hint": "The canonical hosted zone ID of the load balancer (to be used in a Route 53 Alias record).\n* `subnet_mapping.*.outpost_id` - ID of the Outpost containing the load balancer.",
-                                "appmodzName": "zoneId",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": true,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            },
-                            {
-                                "id": 300587,
-                                "name": "id",
-                                "hint": "Pulumi defined id of component",
-                                "appmodzName": "id",
-                                "type": null,
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "isConnectable": null,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "expectsInterface": false,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.526+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.526+00:00"
-                            }
-                        ],
-                        "type": "object",
-                        "apiType": "object",
-                        "value": "arn",
-                        "posValue": ""
-                    }
-                ]
-            ],
-            "toString": [
-                "loadBalancerArn"
-            ],
-            "fromString": [
-                "arn"
-            ],
-            "text": ""
-        },
-        {
-            "from": 117,
-            "fromPort": "port-connection",
-            "to": -53,
-            "toPort": "port-dynamicConnection",
-            "key": 303,
-            "toJson": [
-                [
-                    {
-                        "options": [
-                            {
-                                "id": 300501,
-                                "name": "alpnPolicy",
-                                "hint": "Name of the Application-Layer Protocol Negotiation (ALPN) policy. Can be set if `protocol` is `TLS`. Valid values are `HTTP1Only`, `HTTP2Only`, `HTTP2Optional`, `HTTP2Preferred`, and `None`.",
-                                "appmodzName": "alpnPolicy",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00"
-                            },
-                            {
-                                "id": 300502,
-                                "name": "certificateArn",
-                                "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
-                                "appmodzName": "certificateArn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00"
-                            },
-                            {
-                                "id": 300503,
-                                "name": "defaultActions",
-                                "hint": "Configuration block for default actions. Detailed below.",
-                                "appmodzName": "defaultActions",
-                                "type": "array",
-                                "interfaceName": "ListenerDefaultAction",
-                                "interfaceNamespace": "lb",
-                                "interfaceModule": "aws",
-                                "expectsInterface": true,
-                                "isConnectable": false,
-                                "isMandatory": true,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300504,
-                                "name": "loadBalancerArn",
-                                "hint": "ARN of the load balancer.",
-                                "appmodzName": "loadBalancerArn",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": true,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300505,
-                                "name": "port",
-                                "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                                "appmodzName": "port",
-                                "type": "number",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300506,
-                                "name": "protocol",
-                                "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                                "appmodzName": "protocol",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00"
-                            },
-                            {
-                                "id": 300507,
-                                "name": "sslPolicy",
-                                "hint": "Name of the SSL Policy for the listener. Required if `protocol` is `HTTPS` or `TLS`.",
-                                "appmodzName": "sslPolicy",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
-                            },
-                            {
-                                "id": 300508,
-                                "name": "tags",
-                                "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                                "appmodzName": "tags",
-                                "type": "map",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": false,
-                                "isConnectable": false,
-                                "isMandatory": false,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
-                            },
-                            {
-                                "id": 300509,
-                                "name": "name",
-                                "hint": null,
-                                "appmodzName": "name",
-                                "type": "string",
-                                "interfaceName": null,
-                                "interfaceNamespace": null,
-                                "interfaceModule": null,
-                                "expectsInterface": null,
-                                "isConnectable": false,
-                                "isMandatory": null,
-                                "isVisible": true,
-                                "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                                "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00"
                             }
                         ],
                         "type": "object",
@@ -25590,180 +24325,6 @@
             ]
         },
         {
-            "key": 120,
-            "name": "Listener",
-            "properties": [
-                {
-                    "id": 300501,
-                    "name": "alpnPolicy",
-                    "hint": "Name of the Application-Layer Protocol Negotiation (ALPN) policy. Can be set if `protocol` is `TLS`. Valid values are `HTTP1Only`, `HTTP2Only`, `HTTP2Optional`, `HTTP2Preferred`, and `None`.",
-                    "appmodzName": "alpnPolicy",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300502,
-                    "name": "certificateArn",
-                    "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
-                    "appmodzName": "certificateArn",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300503,
-                    "name": "defaultActions",
-                    "hint": "Configuration block for default actions. Detailed below.",
-                    "appmodzName": "defaultActions",
-                    "type": "array",
-                    "interfaceName": "ListenerDefaultAction",
-                    "interfaceNamespace": "lb",
-                    "interfaceModule": "aws",
-                    "expectsInterface": true,
-                    "isConnectable": false,
-                    "isMandatory": true,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "value": {
-                        "defaultActions": [
-                            {
-                                "type": "redirect",
-                                "redirect": {
-                                    "port": "443",
-                                    "protocol": "HTTPS",
-                                    "statusCode": "HTTP_301"
-                                }
-                            }
-                        ]
-                    },
-                    "dataType": "array"
-                },
-                {
-                    "id": 300504,
-                    "name": "loadBalancerArn",
-                    "hint": "ARN of the load balancer.",
-                    "appmodzName": "loadBalancerArn",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": true,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300505,
-                    "name": "port",
-                    "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                    "appmodzName": "port",
-                    "type": "number",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "value": 3005,
-                    "dataType": "number"
-                },
-                {
-                    "id": 300506,
-                    "name": "protocol",
-                    "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                    "appmodzName": "protocol",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "value": "HTTP",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300507,
-                    "name": "sslPolicy",
-                    "hint": "Name of the SSL Policy for the listener. Required if `protocol` is `HTTPS` or `TLS`.",
-                    "appmodzName": "sslPolicy",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300508,
-                    "name": "tags",
-                    "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                    "appmodzName": "tags",
-                    "type": "map",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "dataType": "map"
-                },
-                {
-                    "id": 300509,
-                    "name": "name",
-                    "hint": null,
-                    "appmodzName": "name",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": null,
-                    "isConnectable": false,
-                    "isMandatory": null,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "value": "saas-app-listner-3005",
-                    "dataType": "string"
-                }
-            ]
-        },
-        {
             "key": -47,
             "name": "Group Name",
             "properties": []
@@ -26294,7 +24855,7 @@
                     "isVisible": true,
                     "propertyCreatedOn": "2023-01-09T12:09:51.825+00:00",
                     "propertyUpdatedOn": "2023-01-09T12:09:51.825+00:00",
-                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/46218197-62a6-48df-ae6a-7d2a74bccf8f",
+                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/a134ad75-ae5e-4eeb-beb9-4af7778e3921",
                     "dataType": "string"
                 },
                 {
@@ -26470,7 +25031,7 @@
                     "isVisible": true,
                     "propertyCreatedOn": "2023-01-09T12:09:51.825+00:00",
                     "propertyUpdatedOn": "2023-01-09T12:09:51.825+00:00",
-                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/17bdc530-0c4e-4ac4-8d99-7b897bacfe03",
+                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/c12ac3f9-9b5a-42f9-b188-bc261f723127",
                     "dataType": "string"
                 },
                 {
@@ -26601,180 +25162,6 @@
                     "propertyCreatedOn": "2023-01-09T12:09:51.826+00:00",
                     "propertyUpdatedOn": "2023-01-09T12:09:51.826+00:00",
                     "value": "443-listner-saas-app",
-                    "dataType": "string"
-                }
-            ]
-        },
-        {
-            "key": -53,
-            "name": "Listener",
-            "properties": [
-                {
-                    "id": 300501,
-                    "name": "alpnPolicy",
-                    "hint": "Name of the Application-Layer Protocol Negotiation (ALPN) policy. Can be set if `protocol` is `TLS`. Valid values are `HTTP1Only`, `HTTP2Only`, `HTTP2Optional`, `HTTP2Preferred`, and `None`.",
-                    "appmodzName": "alpnPolicy",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300502,
-                    "name": "certificateArn",
-                    "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
-                    "appmodzName": "certificateArn",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.167+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300503,
-                    "name": "defaultActions",
-                    "hint": "Configuration block for default actions. Detailed below.",
-                    "appmodzName": "defaultActions",
-                    "type": "array",
-                    "interfaceName": "ListenerDefaultAction",
-                    "interfaceNamespace": "lb",
-                    "interfaceModule": "aws",
-                    "expectsInterface": true,
-                    "isConnectable": false,
-                    "isMandatory": true,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "dataType": "array",
-                    "value": {
-                        "defaultActions": [
-                            {
-                                "type": "redirect",
-                                "redirect": {
-                                    "port": "443",
-                                    "protocol": "HTTPS",
-                                    "statusCode": "HTTP_301"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "id": 300504,
-                    "name": "loadBalancerArn",
-                    "hint": "ARN of the load balancer.",
-                    "appmodzName": "loadBalancerArn",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": true,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300505,
-                    "name": "port",
-                    "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                    "appmodzName": "port",
-                    "type": "number",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "value": 80,
-                    "dataType": "number"
-                },
-                {
-                    "id": 300506,
-                    "name": "protocol",
-                    "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                    "appmodzName": "protocol",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.168+00:00",
-                    "value": "HTTP",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300507,
-                    "name": "sslPolicy",
-                    "hint": "Name of the SSL Policy for the listener. Required if `protocol` is `HTTPS` or `TLS`.",
-                    "appmodzName": "sslPolicy",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "dataType": "string"
-                },
-                {
-                    "id": 300508,
-                    "name": "tags",
-                    "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                    "appmodzName": "tags",
-                    "type": "map",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": false,
-                    "isConnectable": false,
-                    "isMandatory": false,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "dataType": "map"
-                },
-                {
-                    "id": 300509,
-                    "name": "name",
-                    "hint": null,
-                    "appmodzName": "name",
-                    "type": "string",
-                    "interfaceName": null,
-                    "interfaceNamespace": null,
-                    "interfaceModule": null,
-                    "expectsInterface": null,
-                    "isConnectable": false,
-                    "isMandatory": null,
-                    "isVisible": true,
-                    "propertyCreatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "propertyUpdatedOn": "2022-12-29T01:47:21.169+00:00",
-                    "value": "saas-app-listner-3006",
                     "dataType": "string"
                 }
             ]
@@ -30441,58 +28828,6 @@
             ]
         },
         {
-            "key": 120,
-            "name": "Listener",
-            "properties": [
-                {
-                    "name": "defaultActions",
-                    "dataType": "array",
-                    "hint": "Configuration block for default actions. Detailed below.",
-                    "appmodzName": "defaultActions",
-                    "value": [
-                        {
-                            "type": "redirect",
-                            "redirect": {
-                                "port": "443",
-                                "protocol": "HTTPS",
-                                "statusCode": "HTTP_301"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "name": "port",
-                    "dataType": "number",
-                    "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                    "appmodzName": "port",
-                    "value": 3005
-                },
-                {
-                    "name": "protocol",
-                    "dataType": "string",
-                    "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                    "appmodzName": "protocol",
-                    "value": "HTTP"
-                },
-                {
-                    "name": "tags",
-                    "dataType": "map",
-                    "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                    "appmodzName": "tags",
-                    "value": {
-                        "Name": "saas-app-listner-3005"
-                    }
-                },
-                {
-                    "name": "name",
-                    "dataType": "string",
-                    "hint": null,
-                    "appmodzName": "name",
-                    "value": "saas-app-listner-3005"
-                }
-            ]
-        },
-        {
             "key": -47,
             "name": "Group Name",
             "properties": []
@@ -30601,7 +28936,7 @@
                     "dataType": "string",
                     "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
                     "appmodzName": "certificateArn",
-                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/46218197-62a6-48df-ae6a-7d2a74bccf8f"
+                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/a134ad75-ae5e-4eeb-beb9-4af7778e3921"
                 },
                 {
                     "name": "defaultActions",
@@ -30667,7 +29002,7 @@
                     "dataType": "string",
                     "hint": "ARN of the default SSL server certificate. Exactly one certificate is required if the protocol is HTTPS. For adding additional SSL certificates, see the `aws.lb.ListenerCertificate` resource.",
                     "appmodzName": "certificateArn",
-                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/17bdc530-0c4e-4ac4-8d99-7b897bacfe03"
+                    "value": "arn:aws:acm:us-east-2:069422508112:certificate/c12ac3f9-9b5a-42f9-b188-bc261f723127"
                 },
                 {
                     "name": "defaultActions",
@@ -30716,58 +29051,6 @@
                     "hint": null,
                     "appmodzName": "name",
                     "value": "443-listner-saas-app"
-                }
-            ]
-        },
-        {
-            "key": -53,
-            "name": "Listener",
-            "properties": [
-                {
-                    "name": "defaultActions",
-                    "dataType": "array",
-                    "hint": "Configuration block for default actions. Detailed below.",
-                    "appmodzName": "defaultActions",
-                    "value": [
-                        {
-                            "type": "redirect",
-                            "redirect": {
-                                "port": "443",
-                                "protocol": "HTTPS",
-                                "statusCode": "HTTP_301"
-                            }
-                        }
-                    ]
-                },
-                {
-                    "name": "port",
-                    "dataType": "number",
-                    "hint": "Port. Specify a value from `1` to `65535` or `#{port}`. Defaults to `#{port}`.",
-                    "appmodzName": "port",
-                    "value": 80
-                },
-                {
-                    "name": "protocol",
-                    "dataType": "string",
-                    "hint": "Protocol. Valid values are `HTTP`, `HTTPS`, or `#{protocol}`. Defaults to `#{protocol}`.",
-                    "appmodzName": "protocol",
-                    "value": "HTTP"
-                },
-                {
-                    "name": "tags",
-                    "dataType": "map",
-                    "hint": "A map of tags to assign to the resource. .If configured with a provider `defaultTags` configuration block present, tags with matching keys will overwrite those defined at the provider-level.",
-                    "appmodzName": "tags",
-                    "value": {
-                        "Name": "saas-app-listner-3006"
-                    }
-                },
-                {
-                    "name": "name",
-                    "dataType": "string",
-                    "hint": null,
-                    "appmodzName": "name",
-                    "value": "saas-app-listner-3006"
                 }
             ]
         },
@@ -31221,13 +29504,37 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-29-2023 04:18 am",
+            "time": "06-29-2023 04:28 am",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "success",
+            "text": "Apply Executed",
+            "time": "2023-06-28T22:52:24.189+00:00",
+            "content": "Updating (qmcloud-saas-prod)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/qmcloud-saas-prod/updates/3\n\n\n@ Updating....\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (0s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (0s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (0s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 creating (0s) \n +  aws:ec2:Vpc qmcloud-use2-saas-prodid366 creating (0s) \n +  aws:ec2:Eip saas-nat-eipid34 created (0.63s) \n@ Updating....\n +  aws:ec2:Vpc qmcloud-use2-saas-prodid366 created (1s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 creating (0s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 creating (0s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 creating (0s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 creating (0s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 creating (0s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 creating (0s) \n +  aws:ec2:InternetGateway saas-igwid39 creating (0s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 creating (0s) \n +  aws:ec2:RouteTable pub-RTid354 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n +  aws:ec2:RouteTable pvt-RTid-18 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 creating (0s) \n +  aws:ec2:SecurityGroup internal-saasid373 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 created (0.84s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.45-0-Bid-7 created (1.00s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 created (1s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 created (1s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 created (1s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 created (1s) \n +  aws:ec2:InternetGateway saas-igwid39 created (1s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 created (1s) \n +  aws:ec2:RouteTable pub-RTid354 created (1s) \n@ Updating....\n +  aws:ec2:RouteTable pvt-RTid-18 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 created (2s) \n +  aws:ec2:NatGateway saas-natgwid48 creating (0s) \n@ Updating....\n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 created (3s) \n +  aws:ec2:SecurityGroup internal-saasid373 created (3s) \n +  aws:ec2:SecurityGroup saas-jumpid334 created (3s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 creating (0s) \n +  aws:ec2:Route pub-routeid353 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 creating (0s) \n@ Updating....\n +  aws:lb:LoadBalancer saas-admin-albid-49 creating (0s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 creating (0s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 creating (0s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-61 creating (0s) \n +  aws:lb:LoadBalancer saas-app-albid117 creating (0s) \n +  aws:ec2:Instance saas-uiid-56 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-35 creating (0s) \n +  aws:ec2:Instance saas-appid-37 creating (0s) \n +  aws:ec2:SecurityGroupRule internalid-34 creating (0s) \n +  aws:ec2:Instance saas-adminid329 creating (0s) \n +  aws:ec2:Instance jump-saasid328 creating (0s) \n +  aws:ec2:SecurityGroupRule RDPid335 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-28 creating (0s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 created (1s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 created (2s) \n +  aws:ec2:Route pub-routeid353 created (2s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 created (2s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule 80-allid-58 created (2s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule vpc-internalid-59 created (2s) \n +  aws:ec2:SecurityGroupRule egressid-35 created (3s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-61 created (3s) \n +  aws:ec2:SecurityGroupRule internalid-34 created (3s) \n +  aws:ec2:SecurityGroupRule RDPid335 created (3s) \n +  aws:ec2:SecurityGroupRule egressid-28 created (4s) \n@ Updating.................................\n +  aws:ec2:Instance saas-uiid-56 created (34s) \n +  aws:ec2:Instance saas-appid-37 created (34s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 creating (0s) \n +  aws:ec2:Instance saas-adminid329 created (34s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 created (0.50s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 creating (0s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 created (0.49s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 created (0.53s) \n@ Updating.............\n +  aws:ec2:Instance jump-saasid328 created (45s) \n@ Updating..........................................\n +  aws:ec2:NatGateway saas-natgwid48 created (86s) \n +  aws:ec2:Route pvt-routeid-20 creating (0s) \n@ Updating....\n +  aws:ec2:Route pvt-routeid-20 created (0.90s) \n@ Updating....................................................\n +  aws:lb:LoadBalancer saas-admin-albid-49 created (134s) \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 creating (0s) \n +  aws:lb:Listener saas-admin-listnerid-50 creating (0s) \n@ Updating....\n +  aws:lb:LoadBalancer saas-app-albid117 created (134s) \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 created (0.67s) \n +  aws:lb:Listener saas-admin-listnerid-50 created (0.72s) \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 creating (0s) \n +  aws:lb:Listener Http-80id-63 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 created (0.94s) \n +  aws:lb:Listener Http-80id-63 created (1s) \n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod created (0.98s) 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-qmcloud-saas-prod):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\nResources:\n    + 48 created\n\nDuration: 2m26s\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 6be363704d2a8e8ed4bb94f4ab80ebfeff0d2292 \nBranch: ws-1/qmcloud-saas-prod \nChanges: 0 \nInsertions: 0 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Plan Executed",
+            "time": "2023-06-28T22:49:32.988+00:00",
+            "content": "Previewing update (qmcloud-saas-prod)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/qmcloud-saas-prod/previews/4e993dc3-6b06-437a-ab43-1481ae24a904\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create \n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  aws:ec2:Eip saas-nat-eipid34 create \n +  aws:ec2:Vpc qmcloud-use2-saas-prodid366 create \n +  aws:ec2:InternetGateway saas-igwid39 create \n +  aws:ec2:RouteTable pub-RTid354 create \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 create \n +  aws:ec2:RouteTable pvt-RTid-18 create \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 create \n +  aws:ec2:SecurityGroup internal-saasid373 create \n +  aws:ec2:SecurityGroup saas-jumpid334 create \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 create \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 create \n +  aws:ec2:Subnet 10.0.46-0-Cid358 create \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 create \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 create \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 create \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 create \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 create \n +  aws:ec2:Route pub-routeid353 create \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 create \n +  aws:ec2:SecurityGroupRule egressid-61 create \n +  aws:ec2:SecurityGroupRule 80-allid-58 create \n +  aws:ec2:SecurityGroupRule 443-allid-60 create \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 create \n +  aws:ec2:SecurityGroupRule egressid-35 create \n +  aws:ec2:SecurityGroupRule internalid-34 create \n +  aws:ec2:SecurityGroupRule egressid-28 create \n +  aws:ec2:SecurityGroupRule RDPid335 create \n +  aws:ec2:Instance jump-saasid328 create \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 create \n +  aws:ec2:NatGateway saas-natgwid48 create \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 create \n +  aws:ec2:Instance saas-uiid-56 create \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 create \n +  aws:ec2:Instance saas-appid-37 create \n +  aws:ec2:Instance saas-adminid329 create \n +  aws:lb:LoadBalancer saas-admin-albid-49 create \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 create \n +  aws:lb:LoadBalancer saas-app-albid117 create \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 create \n +  aws:ec2:Route pvt-routeid-20 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 create \n +  aws:lb:Listener saas-admin-listnerid-50 create \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 create \n +  aws:lb:Listener Http-80id-63 create \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-qmcloud-saas-prod create 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-qmcloud-saas-prod):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: ca2606484a2268c90e1c2388d619d57dba2cd51c \nBranch: ws-1/qmcloud-saas-prod \nChanges: 2 \nInsertions: 31662 \nDeletions: 0\n\n\nGit Response:\n\nCommit Result: \nCommit Id: ca2606484a2268c90e1c2388d619d57dba2cd51c \nBranch: ws-1/qmcloud-saas-prod \nChanges: 2 \nInsertions: 31662 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-06-28T22:49:16.620+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-06-28T22:48:14.691+00:00",
             "content": "stack Initialized"
         },
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "06-29-2023 04:14 am",
+            "time": "2023-06-28T22:44:44.193+00:00",
             "content": "stack Initialized"
         },
         {
@@ -31267,8 +29574,44 @@
             "action": "success"
         },
         {
+            "name": "Apply",
+            "action": "success"
+        },
+        {
+            "name": "Apply",
+            "action": "warning"
+        },
+        {
+            "name": "Plan",
+            "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Save",
