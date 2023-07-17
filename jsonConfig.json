@@ -65,7 +65,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -129,7 +129,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -193,7 +193,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -257,7 +257,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -321,7 +321,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -385,7 +385,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 10
+                    "componentKey": 112
                 }
             ],
             "topArray": [
@@ -449,7 +449,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "allocationId",
                     "portId": "port-allocationId",
-                    "componentKey": 8
+                    "componentKey": 110
                 }
             ],
             "topArray": [
@@ -495,7 +495,7 @@
             },
             "isInterface": false,
             "key1": -32,
-            "loc": "-1529.5 -1300",
+            "loc": "-1559.5 -1300",
             "group": -23
         },
         {
@@ -513,7 +513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 311
+                    "componentKey": 329
                 }
             ],
             "topArray": [
@@ -553,7 +553,7 @@
             },
             "isInterface": false,
             "key1": -23,
-            "loc": "-1389.5 -1300",
+            "loc": "-1419.5 -1300",
             "group": -23
         },
         {
@@ -604,7 +604,7 @@
             },
             "isInterface": false,
             "key1": -18,
-            "loc": "-1258 -1300",
+            "loc": "-1288 -1300",
             "group": -23
         },
         {
@@ -622,7 +622,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -673,7 +673,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2220 -1558",
+            "loc": "-2220 -1574",
             "group": -22
         },
         {
@@ -691,7 +691,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -742,7 +742,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2080 -1558",
+            "loc": "-2080 -1574",
             "group": -22
         },
         {
@@ -760,7 +760,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -811,7 +811,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1940 -1558",
+            "loc": "-1940 -1574",
             "group": -22
         },
         {
@@ -829,7 +829,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -880,7 +880,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2790 -1504.000076171876",
+            "loc": "-2790 -1520.000076171876",
             "group": -24
         },
         {
@@ -898,7 +898,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -949,7 +949,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2650 -1504.000076171876",
+            "loc": "-2650 -1520.000076171876",
             "group": -24
         },
         {
@@ -967,7 +967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 330
+                    "componentKey": 348
                 },
                 {
                     "portColor": "#9c0202",
@@ -1018,7 +1018,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2510 -1504.000076171876",
+            "loc": "-2510 -1520.000076171876",
             "group": -24
         },
         {
@@ -1036,7 +1036,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 329
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1076,7 +1076,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-2220 -1383",
+            "loc": "-2220 -1399",
             "group": -22
         },
         {
@@ -1094,7 +1094,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 329
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1134,7 +1134,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-2790 -1329.000076171876",
+            "loc": "-2790 -1345.000076171876",
             "group": -24
         },
         {
@@ -1152,7 +1152,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 328
+                    "componentKey": 346
                 },
                 {
                     "portColor": "#9c0202",
@@ -1248,7 +1248,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-2080 -1383",
+            "loc": "-2080 -1399",
             "group": -22
         },
         {
@@ -1266,7 +1266,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 328
+                    "componentKey": 346
                 },
                 {
                     "portColor": "#9c0202",
@@ -1362,7 +1362,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-2650 -1329.000076171876",
+            "loc": "-2650 -1345.000076171876",
             "group": -24
         },
         {
@@ -1392,7 +1392,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2280 -1636",
+            "loc": "-2280 -1652",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1407,7 +1407,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1620 -1400",
+            "loc": "-1650 -1400",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1422,7 +1422,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2850 -1582.000076171876",
+            "loc": "-2850 -1598.000076171876",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1455,7 +1455,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 331
+                    "componentKey": 349
                 }
             ],
             "topArray": [
@@ -1495,7 +1495,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-560 -2473.6556640625004",
+            "loc": "-560 -2511.038916015625",
             "group": -30
         },
         {
@@ -1513,7 +1513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -1559,7 +1559,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-420 -2473.6556640625004",
+            "loc": "-420 -2511.038916015625",
             "group": -30
         },
         {
@@ -1577,7 +1577,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -1623,7 +1623,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-280 -2473.6556640625004",
+            "loc": "-280 -2511.038916015625",
             "group": -30
         },
         {
@@ -1641,7 +1641,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 6
+                    "componentKey": 108
                 },
                 {
                     "portColor": "#9c0202",
@@ -1692,7 +1692,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-1940 -1383",
+            "loc": "-1940 -1399",
             "group": -22
         },
         {
@@ -1707,7 +1707,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-620 -2573.038916015625",
+            "loc": "-620 -2603.538916015625",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1725,7 +1725,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 331
+                    "componentKey": 349
                 }
             ],
             "topArray": [
@@ -1765,7 +1765,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-1620 -2428.6167480468753",
+            "loc": "-1620 -2465.6556640625004",
             "group": -36
         },
         {
@@ -1783,7 +1783,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -1829,7 +1829,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1480 -2428.6167480468753",
+            "loc": "-1480 -2465.6556640625004",
             "group": -36
         },
         {
@@ -1847,7 +1847,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -1893,7 +1893,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1340 -2428.6167480468753",
+            "loc": "-1340 -2465.6556640625004",
             "group": -36
         },
         {
@@ -1908,7 +1908,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-1680 -2527.6556640625004",
+            "loc": "-1680 -2565.038916015625",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1926,7 +1926,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 6
+                    "componentKey": 108
                 },
                 {
                     "portColor": "#9c0202",
@@ -1995,7 +1995,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 6
+                    "componentKey": 108
                 },
                 {
                     "portColor": "#9c0202",
@@ -2079,7 +2079,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 65
+                    "componentKey": 92
                 }
             ],
             "topArray": [
@@ -2119,7 +2119,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1008.5000000000002 -2610.8113281250007",
+            "loc": "-1008.5000000000002 -2647.850244140626",
             "group": -52
         },
         {
@@ -2137,7 +2137,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 65
+                    "componentKey": 92
                 }
             ],
             "topArray": [
@@ -2177,7 +2177,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1650 -2084.07783203125",
+            "loc": "-1650 -2121.1167480468753",
             "group": -47
         },
         {
@@ -2195,7 +2195,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 66
+                    "componentKey": 93
                 }
             ],
             "topArray": [
@@ -2235,7 +2235,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-1510 -2084.07783203125",
+            "loc": "-1510 -2121.1167480468753",
             "group": -47
         },
         {
@@ -2253,7 +2253,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 66
+                    "componentKey": 93
                 }
             ],
             "topArray": [
@@ -2293,7 +2293,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-868.5000000000002 -2610.8113281250007",
+            "loc": "-868.5000000000002 -2647.850244140626",
             "group": -52
         },
         {
@@ -2344,7 +2344,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1378.5 -2084.07783203125",
+            "loc": "-1378.5 -2121.1167480468753",
             "group": -47
         },
         {
@@ -2359,7 +2359,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1710 -2183.1167480468753",
+            "loc": "-1710 -2220.1556640625004",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2410,7 +2410,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-737.0000000000002 -2610.8113281250007",
+            "loc": "-737.0000000000002 -2647.850244140626",
             "group": -52
         },
         {
@@ -2461,7 +2461,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-1017.0000000000002 -2400.8113281250007",
+            "loc": "-1017.0000000000002 -2437.850244140626",
             "group": -52
         },
         {
@@ -2512,7 +2512,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-912.0000000000002 -2400.8113281250007",
+            "loc": "-912.0000000000002 -2437.850244140626",
             "group": -52
         },
         {
@@ -2527,7 +2527,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -3,
-            "loc": "-1068.5000000000002 -2709.850244140626",
+            "loc": "-1068.5000000000002 -2747.850244140626",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2578,7 +2578,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1658.5 -1874.0778320312502",
+            "loc": "-1658.5 -1911.1167480468753",
             "group": -47
         },
         {
@@ -2596,7 +2596,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 65
+                    "componentKey": 92
                 }
             ],
             "topArray": [
@@ -2636,7 +2636,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-1545 -1874.0778320312502",
+            "loc": "-1545 -1911.1167480468753",
             "group": -47
         },
         {
@@ -2654,7 +2654,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 66
+                    "componentKey": 93
                 }
             ],
             "topArray": [
@@ -2694,7 +2694,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-1405 -1874.0778320312502",
+            "loc": "-1405 -1911.1167480468753",
             "group": -47
         },
         {
@@ -2712,7 +2712,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 6
+                    "componentKey": 108
                 },
                 {
                     "portColor": "#9c0202",
@@ -2781,7 +2781,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 331
+                    "componentKey": 349
                 }
             ],
             "topArray": [
@@ -2821,7 +2821,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-2807.5 -2238",
+            "loc": "-2845.5 -2275.038916015625",
             "group": -62
         },
         {
@@ -2839,7 +2839,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -2885,7 +2885,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2667.5 -2238",
+            "loc": "-2705.5 -2275.038916015625",
             "group": -62
         },
         {
@@ -2903,7 +2903,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -2949,7 +2949,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2527.5 -2238",
+            "loc": "-2565.5 -2275.038916015625",
             "group": -62
         },
         {
@@ -2967,7 +2967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -3013,7 +3013,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2807.5 -2028",
+            "loc": "-2845.5 -2065.038916015625",
             "group": -62
         },
         {
@@ -3031,7 +3031,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 332
+                    "componentKey": 350
                 }
             ],
             "topArray": [
@@ -3077,7 +3077,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2667.5 -2028",
+            "loc": "-2705.5 -2065.038916015625",
             "group": -62
         },
         {
@@ -3092,7 +3092,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2905.5 -2337.038916015625",
+            "loc": "-2936 -2374.07783203125",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -3143,7 +3143,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-1658.5 -1664.0778320312502",
+            "loc": "-1658.5 -1701.1167480468753",
             "group": -47
         }
     ],
@@ -29504,11 +29504,49 @@
         {
             "type": "success",
             "text": "Save Executed",
+            "time": "07-17-2023 01:19 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-07-17T07:47:54.184+00:00",
+            "content": "Previewing update (sample-d)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/sample-d/previews/07382804-20f4-4410-aa49-28cfe80c11db\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-sample-d create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 2c3cf4c3-d9cd-4f88-8b1b-e82f64ee6877\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: e045effc-1379-4cbb-b8c3-59a0c257cce6\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 606ce55b-0732-44e4-9413-4ccddf8daa15\n\n  pulumi:pulumi:Stack (ws-1-sample-d):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi preview --client=127.0.0.1:36371 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-rYeXDP/eventlog.txt --stack sample-d --non-interactive\nPreviewing update (sample-d)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/sample-d/previews/07382804-20f4-4410-aa49-28cfe80c11db\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-sample-d create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 2c3cf4c3-d9cd-4f88-8b1b-e82f64ee6877\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: e045effc-1379-4cbb-b8c3-59a0c257cce6\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 606ce55b-0732-44e4-9413-4ccddf8daa15\n\n  pulumi:pulumi:Stack (ws-1-sample-d):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n\n err?: Error: Command failed with exit code 255: pulumi preview --client=127.0.0.1:36371 --exec-kind auto.inline --event-log /tmp/automation-logs-preview-rYeXDP/eventlog.txt --stack sample-d --non-interactive\nPreviewing update (sample-d)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/sample-d/previews/07382804-20f4-4410-aa49-28cfe80c11db\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-sample-d create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    aws:ec2:Eip saas-nat-eipid34  error: 1 error occurred:\n +  pulumi:pulumi:Stack ws-1-sample-d create 8 warnings\n    aws:ec2:Eip saas-nat-eipid34  1 error\n\nDiagnostics:\n  aws:ec2:Eip (saas-nat-eipid34):\n    error: 1 error occurred:\n    \t* error configuring Terraform AWS Provider: AWS account ID not previously found and failed retrieving via all available methods. See https://www.terraform.io/docs/providers/aws/index.html#skip_requesting_account_id for workaround and implications. Errors: 3 errors occurred:\n    \t* failed getting account information via iam:GetUser: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 2c3cf4c3-d9cd-4f88-8b1b-e82f64ee6877\n    \t* error calling sts:GetCallerIdentity: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: e045effc-1379-4cbb-b8c3-59a0c257cce6\n    \t* failed getting account information via iam:ListRoles: SignatureDoesNotMatch: The request signature we calculated does not match the signature you provided. Check your AWS Secret Access Key and signing method. Consult the service documentation for details.\n    \tstatus code: 403, request id: 606ce55b-0732-44e4-9413-4ccddf8daa15\n\n  pulumi:pulumi:Stack (ws-1-sample-d):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 8e20533751ef8c5a3e3c95dd6334715e1a9b7906 \nBranch: ws-1/sample-d \nChanges: 2 \nInsertions: 29869 \nDeletions: 0\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 8e20533751ef8c5a3e3c95dd6334715e1a9b7906 \nBranch: ws-1/sample-d \nChanges: 2 \nInsertions: 29869 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-07-17T07:47:01.581+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
             "time": "2023-07-17T07:42:04.851+00:00",
             "content": "stack Initialized"
         }
     ],
     "state": [
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
         {
             "name": "Save",
             "action": "success"
