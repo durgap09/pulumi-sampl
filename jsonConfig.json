@@ -65,7 +65,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -129,7 +129,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -193,7 +193,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -257,7 +257,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -321,7 +321,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -385,7 +385,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 120
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -439,7 +439,7 @@
             "name": "NatGateway",
             "figure": "RoundedRectangle",
             "otherName": "saas-natgw",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Nat_Gateway.png",
             "viewName": "NatGateway",
             "size": "100 auto",
@@ -449,7 +449,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "allocationId",
                     "portId": "port-allocationId",
-                    "componentKey": 118
+                    "componentKey": 128
                 }
             ],
             "topArray": [
@@ -513,7 +513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 319
+                    "componentKey": 326
                 }
             ],
             "topArray": [
@@ -612,7 +612,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pub-rta-1",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -622,7 +622,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -691,7 +691,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -760,7 +760,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -829,7 +829,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -898,7 +898,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -957,7 +957,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pvt-rta-3",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -967,7 +967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "gatewayId",
                     "portId": "port-gatewayId",
-                    "componentKey": 338
+                    "componentKey": 345
                 },
                 {
                     "portColor": "#9c0202",
@@ -1036,7 +1036,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 337
+                    "componentKey": 344
                 }
             ],
             "topArray": [
@@ -1094,7 +1094,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 337
+                    "componentKey": 344
                 }
             ],
             "topArray": [
@@ -1152,7 +1152,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 336
+                    "componentKey": 343
                 },
                 {
                     "portColor": "#9c0202",
@@ -1266,7 +1266,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "carrierGatewayId",
                     "portId": "port-carrierGatewayId",
-                    "componentKey": 336
+                    "componentKey": 343
                 },
                 {
                     "portColor": "#9c0202",
@@ -1455,7 +1455,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 339
+                    "componentKey": 346
                 }
             ],
             "topArray": [
@@ -1503,7 +1503,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "RDP",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1513,7 +1513,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1567,7 +1567,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1577,7 +1577,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1631,7 +1631,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "jump-saas",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "editIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1641,7 +1641,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 116
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -1725,7 +1725,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 339
+                    "componentKey": 346
                 }
             ],
             "topArray": [
@@ -1773,7 +1773,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "internal",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1783,7 +1783,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1837,7 +1837,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1847,7 +1847,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -1916,7 +1916,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-app",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1926,7 +1926,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 116
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -1985,7 +1985,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1995,7 +1995,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 116
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2079,7 +2079,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 83
+                    "componentKey": 44
                 }
             ],
             "topArray": [
@@ -2127,7 +2127,7 @@
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-app-tg",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "editIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroup",
             "size": "100 auto",
@@ -2137,7 +2137,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 83
+                    "componentKey": 44
                 }
             ],
             "topArray": [
@@ -2195,7 +2195,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 84
+                    "componentKey": 45
                 }
             ],
             "topArray": [
@@ -2253,7 +2253,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 84
+                    "componentKey": 45
                 }
             ],
             "topArray": [
@@ -2301,7 +2301,7 @@
             "name": "LoadBalancer",
             "figure": "RoundedRectangle",
             "otherName": "saas-app-alb",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "LoadBalancer",
             "size": "100 auto",
@@ -2367,7 +2367,7 @@
             "name": "LoadBalancer",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin-alb",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "LoadBalancer",
             "size": "100 auto",
@@ -2586,7 +2586,7 @@
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui-tg",
-            "canvasState": "editIcon",
+            "canvasState": "notDeployedIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroup",
             "size": "100 auto",
@@ -2596,7 +2596,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 83
+                    "componentKey": 44
                 }
             ],
             "topArray": [
@@ -2654,7 +2654,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "targetId",
                     "portId": "port-targetId",
-                    "componentKey": 84
+                    "componentKey": 45
                 }
             ],
             "topArray": [
@@ -2702,7 +2702,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -2712,7 +2712,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 116
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2781,7 +2781,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "vpcId",
                     "portId": "port-vpcId",
-                    "componentKey": 339
+                    "componentKey": 346
                 }
             ],
             "topArray": [
@@ -2829,7 +2829,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "80-all",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2839,7 +2839,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -2893,7 +2893,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "vpc-internal",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2903,7 +2903,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -2957,7 +2957,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "443-all",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2967,7 +2967,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -3021,7 +3021,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "notDeployedIcon",
+            "canvasState": "",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3031,7 +3031,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "securityGroupId",
                     "portId": "port-securityGroupId",
-                    "componentKey": 340
+                    "componentKey": 347
                 }
             ],
             "topArray": [
@@ -20843,7 +20843,7 @@
                     "propertyUpdatedOn": "2022-11-15T10:32:34.164+00:00",
                     "otherType": "text",
                     "options": null,
-                    "value": "ami-0fc682b2a42e57ca2",
+                    "value": "qcloud-us-east-1",
                     "dataType": "text"
                 },
                 {
@@ -23640,7 +23640,7 @@
                     "dataType": "object",
                     "value": {
                         "healthCheck": {
-                            "path": "/api/v2/internal/healthcheck\n",
+                            "path": "/\n",
                             "protocol": "HTTP",
                             "timeout": 2,
                             "unhealthyThreshold": 3,
@@ -28390,7 +28390,7 @@
                     "dataType": "text",
                     "hint": "Key name of the Key Pair to use for the instance; which can be managed using the `aws.ec2.KeyPair` resource.",
                     "appmodzName": "keyName",
-                    "value": "ami-0fc682b2a42e57ca2"
+                    "value": "qcloud-us-east-1"
                 },
                 {
                     "name": "tags",
@@ -28786,7 +28786,7 @@
                     "hint": "Health Check configuration block. Detailed below.",
                     "appmodzName": "healthCheck",
                     "value": {
-                        "path": "/api/v2/internal/healthcheck\n",
+                        "path": "/\n",
                         "protocol": "HTTP",
                         "timeout": 2,
                         "unhealthyThreshold": 3,
@@ -29602,6 +29602,12 @@
         {
             "type": "error",
             "text": "Error Occurred while Applying",
+            "time": "2023-08-04T11:35:10.338+00:00",
+            "content": "Updating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/6\n\n\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running \n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n    aws:ec2:Eip saas-nat-eipid34  [diff: +__defaults~tags]\n    aws:ec2:Vpc qmcloud-usw2-saas-prodid366  [diff: ~tags]\n    aws:applicationloadbalancing:TargetGroup saas-admin-tgid60  [diff: ~tags]\n    aws:ec2:InternetGateway saas-igwid39  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pub-RTid354  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pvt-RTid-18  [diff: +__defaults~tags]\n    aws:ec2:SecurityGroup saas-ALB-groupid-57  [diff: ~tags]\n    aws:ec2:SecurityGroup internal-saasid373  [diff: ~tags]\n    aws:ec2:SecurityGroup saas-jumpid334  [diff: ~tags]\n    aws:ec2:Subnet 10.0.44-0-Aid-5  [diff: ~tags]\n    aws:ec2:Subnet 10.0.45-0-Bid-7  [diff: ~tags]\n    aws:ec2:Subnet 10.0.46-0-Cid358  [diff: ~tags]\n    aws:ec2:Subnet 10.0.35-0-Aid-6  [diff: ~tags]\n    aws:ec2:Subnet 10.0.36-0-Bid-3  [diff: ~tags]\n    aws:ec2:Subnet 10.0.37-0-Cid-4  [diff: ~tags]\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n    aws:ec2:Route pub-routeid353  [diff: +__defaults]\n +  aws:ec2:SecurityGroupRule egressid-61 creating (0s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 creating (0s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 creating (0s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 creating (0s) \n +  aws:ec2:SecurityGroupRule internalid-34 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-35 creating (0s) \n +  aws:ec2:SecurityGroupRule RDPid335 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-28 creating (0s) \n@ Updating....\n +  aws:ec2:Instance jump-saasid328 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 creating (0s) \n +  aws:ec2:NatGateway saas-natgwid48 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-2id-12  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-admin-albid-49 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-3id-13  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-app-albid117 creating (0s) \n +  aws:ec2:Instance saas-uiid-56 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-1id-14  [diff: +__defaults]\n +  aws:ec2:Instance saas-adminid329 creating (0s) \n +  aws:ec2:Instance saas-appid-37 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-2id-15  [diff: +__defaults]\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-61 created (2s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 created (2s) \n +  aws:ec2:SecurityGroupRule internalid-34 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule RDPid335 created (3s) \n +  aws:ec2:SecurityGroupRule egressid-35 created (3s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 created (3s) \n +  aws:ec2:Instance jump-saasid328 creating (3s) error: 1 error occurred:\n +  aws:ec2:Instance jump-saasid328 **creating failed** error: 1 error occurred:\n +  aws:ec2:RouteTableAssociation pub-rta-1id355 created (3s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 created (4s) \n +  aws:ec2:SecurityGroupRule egressid-28 created (3s) \n@ Updating.....\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 created (4s) \n@ Updating..............\n +  aws:ec2:Instance saas-adminid329 created (16s) \n +  aws:ec2:Instance saas-uiid-56 created (16s) \n@ Updating....\n +  aws:ec2:Instance saas-appid-37 created (16s) \n@ Updating.........................................................................\n +  aws:ec2:NatGateway saas-natgwid48 created (87s) \n@ Updating.........................................\n +  aws:lb:LoadBalancer saas-admin-albid-49 created (125s) \n@ Updating..............\n +  aws:lb:LoadBalancer saas-app-albid117 created (135s) \n    pulumi:pulumi:Stack ws-1-east running error: update failed\n    pulumi:pulumi:Stack ws-1-east **failed** 1 error; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:ec2:Instance (jump-saasid328):\n    error: 1 error occurred:\n    \t* Error launching source instance: InvalidKeyPair.NotFound: The key pair 'ami-0fc682b2a42e57ca2' does not exist\n    \tstatus code: 400, request id: 258cc883-e1ab-42a5-a5b4-aa70b10816c1\n\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: 2ef0eccc-75fa-4bd1-b724-279cafc70e3a\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: InvalidParameter: 1 validation error(s) found.\n    - minimum field value of 5, CreateTargetGroupInput.HealthCheckIntervalSeconds.\n\nResources:\n    + 16 created\n    21 unchanged\n\nDuration: 2m21s\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi up --yes --skip-preview --client=127.0.0.1:33183 --exec-kind auto.inline --event-log /tmp/automation-logs-up-iom8Tv/eventlog.txt --stack east --non-interactive\nUpdating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/6\n\n\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running \n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n    aws:ec2:Eip saas-nat-eipid34  [diff: +__defaults~tags]\n    aws:ec2:Vpc qmcloud-usw2-saas-prodid366  [diff: ~tags]\n    aws:applicationloadbalancing:TargetGroup saas-admin-tgid60  [diff: ~tags]\n    aws:ec2:InternetGateway saas-igwid39  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pub-RTid354  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pvt-RTid-18  [diff: +__defaults~tags]\n    aws:ec2:SecurityGroup saas-ALB-groupid-57  [diff: ~tags]\n    aws:ec2:SecurityGroup internal-saasid373  [diff: ~tags]\n    aws:ec2:SecurityGroup saas-jumpid334  [diff: ~tags]\n    aws:ec2:Subnet 10.0.44-0-Aid-5  [diff: ~tags]\n    aws:ec2:Subnet 10.0.45-0-Bid-7  [diff: ~tags]\n    aws:ec2:Subnet 10.0.46-0-Cid358  [diff: ~tags]\n    aws:ec2:Subnet 10.0.35-0-Aid-6  [diff: ~tags]\n    aws:ec2:Subnet 10.0.36-0-Bid-3  [diff: ~tags]\n    aws:ec2:Subnet 10.0.37-0-Cid-4  [diff: ~tags]\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n    aws:ec2:Route pub-routeid353  [diff: +__defaults]\n +  aws:ec2:SecurityGroupRule egressid-61 creating (0s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 creating (0s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 creating (0s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 creating (0s) \n +  aws:ec2:SecurityGroupRule internalid-34 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-35 creating (0s) \n +  aws:ec2:SecurityGroupRule RDPid335 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-28 creating (0s) \n@ Updating....\n +  aws:ec2:Instance jump-saasid328 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 creating (0s) \n +  aws:ec2:NatGateway saas-natgwid48 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-2id-12  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-admin-albid-49 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-3id-13  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-app-albid117 creating (0s) \n +  aws:ec2:Instance saas-uiid-56 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-1id-14  [diff: +__defaults]\n +  aws:ec2:Instance saas-adminid329 creating (0s) \n +  aws:ec2:Instance saas-appid-37 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-2id-15  [diff: +__defaults]\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-61 created (2s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 created (2s) \n +  aws:ec2:SecurityGroupRule internalid-34 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule RDPid335 created (3s) \n +  aws:ec2:SecurityGroupRule egressid-35 created (3s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 created (3s) \n +  aws:ec2:Instance jump-saasid328 creating (3s) error: 1 error occurred:\n +  aws:ec2:Instance jump-saasid328 **creating failed** error: 1 error occurred:\n +  aws:ec2:RouteTableAssociation pub-rta-1id355 created (3s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 created (4s) \n +  aws:ec2:SecurityGroupRule egressid-28 created (3s) \n@ Updating.....\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 created (4s) \n@ Updating..............\n +  aws:ec2:Instance saas-adminid329 created (16s) \n +  aws:ec2:Instance saas-uiid-56 created (16s) \n@ Updating....\n +  aws:ec2:Instance saas-appid-37 created (16s) \n@ Updating.........................................................................\n +  aws:ec2:NatGateway saas-natgwid48 created (87s) \n@ Updating.........................................\n +  aws:lb:LoadBalancer saas-admin-albid-49 created (125s) \n@ Updating..............\n +  aws:lb:LoadBalancer saas-app-albid117 created (135s) \n    pulumi:pulumi:Stack ws-1-east running error: update failed\n    pulumi:pulumi:Stack ws-1-east **failed** 1 error; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:ec2:Instance (jump-saasid328):\n    error: 1 error occurred:\n    \t* Error launching source instance: InvalidKeyPair.NotFound: The key pair 'ami-0fc682b2a42e57ca2' does not exist\n    \tstatus code: 400, request id: 258cc883-e1ab-42a5-a5b4-aa70b10816c1\n\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: 2ef0eccc-75fa-4bd1-b724-279cafc70e3a\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: InvalidParameter: 1 validation error(s) found.\n    - minimum field value of 5, CreateTargetGroupInput.HealthCheckIntervalSeconds.\n\nResources:\n    + 16 created\n    21 unchanged\n\nDuration: 2m21s\n\n err?: Error: Command failed with exit code 255: pulumi up --yes --skip-preview --client=127.0.0.1:33183 --exec-kind auto.inline --event-log /tmp/automation-logs-up-iom8Tv/eventlog.txt --stack east --non-interactive\nUpdating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/6\n\n\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running \n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n@ Updating....\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    pulumi:pulumi:Stack ws-1-east running warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    pulumi:pulumi:Stack ws-1-east running warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n    aws:ec2:Eip saas-nat-eipid34  [diff: +__defaults~tags]\n    aws:ec2:Vpc qmcloud-usw2-saas-prodid366  [diff: ~tags]\n    aws:applicationloadbalancing:TargetGroup saas-admin-tgid60  [diff: ~tags]\n    aws:ec2:InternetGateway saas-igwid39  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pub-RTid354  [diff: +__defaults~tags]\n    aws:ec2:RouteTable pvt-RTid-18  [diff: +__defaults~tags]\n    aws:ec2:SecurityGroup saas-ALB-groupid-57  [diff: ~tags]\n    aws:ec2:SecurityGroup internal-saasid373  [diff: ~tags]\n    aws:ec2:SecurityGroup saas-jumpid334  [diff: ~tags]\n    aws:ec2:Subnet 10.0.44-0-Aid-5  [diff: ~tags]\n    aws:ec2:Subnet 10.0.45-0-Bid-7  [diff: ~tags]\n    aws:ec2:Subnet 10.0.46-0-Cid358  [diff: ~tags]\n    aws:ec2:Subnet 10.0.35-0-Aid-6  [diff: ~tags]\n    aws:ec2:Subnet 10.0.36-0-Bid-3  [diff: ~tags]\n    aws:ec2:Subnet 10.0.37-0-Cid-4  [diff: ~tags]\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n    aws:ec2:Route pub-routeid353  [diff: +__defaults]\n +  aws:ec2:SecurityGroupRule egressid-61 creating (0s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 creating (0s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 creating (0s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 creating (0s) \n +  aws:ec2:SecurityGroupRule internalid-34 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-35 creating (0s) \n +  aws:ec2:SecurityGroupRule RDPid335 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-28 creating (0s) \n@ Updating....\n +  aws:ec2:Instance jump-saasid328 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 creating (0s) \n +  aws:ec2:NatGateway saas-natgwid48 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-2id-12  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-admin-albid-49 creating (0s) \n    aws:ec2:RouteTableAssociation pub-rta-3id-13  [diff: +__defaults]\n +  aws:lb:LoadBalancer saas-app-albid117 creating (0s) \n +  aws:ec2:Instance saas-uiid-56 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-1id-14  [diff: +__defaults]\n +  aws:ec2:Instance saas-adminid329 creating (0s) \n +  aws:ec2:Instance saas-appid-37 creating (0s) \n    aws:ec2:RouteTableAssociation pvt-rta-2id-15  [diff: +__defaults]\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-61 created (2s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 created (2s) \n +  aws:ec2:SecurityGroupRule internalid-34 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule RDPid335 created (3s) \n +  aws:ec2:SecurityGroupRule egressid-35 created (3s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 created (3s) \n +  aws:ec2:Instance jump-saasid328 creating (3s) error: 1 error occurred:\n +  aws:ec2:Instance jump-saasid328 **creating failed** error: 1 error occurred:\n +  aws:ec2:RouteTableAssociation pub-rta-1id355 created (3s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 created (4s) \n +  aws:ec2:SecurityGroupRule egressid-28 created (3s) \n@ Updating.....\n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 created (4s) \n@ Updating..............\n +  aws:ec2:Instance saas-adminid329 created (16s) \n +  aws:ec2:Instance saas-uiid-56 created (16s) \n@ Updating....\n +  aws:ec2:Instance saas-appid-37 created (16s) \n@ Updating.........................................................................\n +  aws:ec2:NatGateway saas-natgwid48 created (87s) \n@ Updating.........................................\n +  aws:lb:LoadBalancer saas-admin-albid-49 created (125s) \n@ Updating..............\n +  aws:lb:LoadBalancer saas-app-albid117 created (135s) \n    pulumi:pulumi:Stack ws-1-east running error: update failed\n    pulumi:pulumi:Stack ws-1-east **failed** 1 error; 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:ec2:Instance (jump-saasid328):\n    error: 1 error occurred:\n    \t* Error launching source instance: InvalidKeyPair.NotFound: The key pair 'ami-0fc682b2a42e57ca2' does not exist\n    \tstatus code: 400, request id: 258cc883-e1ab-42a5-a5b4-aa70b10816c1\n\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: 2ef0eccc-75fa-4bd1-b724-279cafc70e3a\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: InvalidParameter: 1 validation error(s) found.\n    - minimum field value of 5, CreateTargetGroupInput.HealthCheckIntervalSeconds.\n\nResources:\n    + 16 created\n    21 unchanged\n\nDuration: 2m21s\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 7274b1ec2fe05571f9864ad60f68151c18d4d9da \nBranch: ws-1/east \nChanges: 1 \nInsertions: 122 \nDeletions: 76\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Applying",
             "time": "2023-08-04T11:29:17.598+00:00",
             "content": "Updating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/3\n\n\n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 creating (0s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 creating (0s) \n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 created (0.82s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 created (1s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 creating (0s) \n +  aws:ec2:InternetGateway saas-igwid39 creating (0s) \n +  aws:ec2:RouteTable pub-RTid354 creating (0s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 creating (0s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 creating (0s) \n +  aws:ec2:RouteTable pvt-RTid-18 creating (0s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 creating (0s) \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 creating (0s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 creating (0s) \n +  aws:ec2:SecurityGroup internal-saasid373 creating (0s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n@ Updating....\n +  aws:ec2:RouteTable pub-RTid354 created (0.74s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 created (0.77s) \n +  aws:ec2:InternetGateway saas-igwid39 created (0.77s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.45-0-Bid-7 created (1s) \n +  aws:ec2:RouteTable pvt-RTid-18 created (1s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 created (1s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 created (1s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.36-0-Bid-3 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:ec2:Subnet 10.0.37-0-Cid-4 created (2s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n +  aws:ec2:Route pub-routeid353 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 creating (0s) \n@ Updating....\n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 created (3s) \n +  aws:ec2:SecurityGroup internal-saasid373 created (3s) \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 created (3s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 creating (0s) \n@ Updating....\n +  aws:ec2:Route pub-routeid353 created (2s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 created (1s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 created (1s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 created (2s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (9s) error: update failed\n +  pulumi:pulumi:Stack ws-1-east **creating failed (0.98s)** 1 error; 8 warnings\n\nDiagnostics:\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: de784e9a-aaee-4e6e-bdef-c8cb2df1904e\n\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check timeout '5' must be smaller than the interval '5'\n    \tstatus code: 400, request id: 61373b41-1c8e-4257-9624-b1c02cc9a1f7\n\nResources:\n    + 21 created\n\nDuration: 11s\n\n\nCommandError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi up --yes --skip-preview --client=127.0.0.1:46457 --exec-kind auto.inline --event-log /tmp/automation-logs-up-UqVkqE/eventlog.txt --stack east --non-interactive\nUpdating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/3\n\n\n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 creating (0s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 creating (0s) \n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 created (0.82s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 created (1s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 creating (0s) \n +  aws:ec2:InternetGateway saas-igwid39 creating (0s) \n +  aws:ec2:RouteTable pub-RTid354 creating (0s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 creating (0s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 creating (0s) \n +  aws:ec2:RouteTable pvt-RTid-18 creating (0s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 creating (0s) \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 creating (0s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 creating (0s) \n +  aws:ec2:SecurityGroup internal-saasid373 creating (0s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n@ Updating....\n +  aws:ec2:RouteTable pub-RTid354 created (0.74s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 created (0.77s) \n +  aws:ec2:InternetGateway saas-igwid39 created (0.77s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.45-0-Bid-7 created (1s) \n +  aws:ec2:RouteTable pvt-RTid-18 created (1s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 created (1s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 created (1s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.36-0-Bid-3 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:ec2:Subnet 10.0.37-0-Cid-4 created (2s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n +  aws:ec2:Route pub-routeid353 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 creating (0s) \n@ Updating....\n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 created (3s) \n +  aws:ec2:SecurityGroup internal-saasid373 created (3s) \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 created (3s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 creating (0s) \n@ Updating....\n +  aws:ec2:Route pub-routeid353 created (2s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 created (1s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 created (1s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 created (2s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (9s) error: update failed\n +  pulumi:pulumi:Stack ws-1-east **creating failed (0.98s)** 1 error; 8 warnings\n\nDiagnostics:\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: de784e9a-aaee-4e6e-bdef-c8cb2df1904e\n\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check timeout '5' must be smaller than the interval '5'\n    \tstatus code: 400, request id: 61373b41-1c8e-4257-9624-b1c02cc9a1f7\n\nResources:\n    + 21 created\n\nDuration: 11s\n\n err?: Error: Command failed with exit code 255: pulumi up --yes --skip-preview --client=127.0.0.1:46457 --exec-kind auto.inline --event-log /tmp/automation-logs-up-UqVkqE/eventlog.txt --stack east --non-interactive\nUpdating (east)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/east/updates/3\n\n\n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (0s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-east creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 creating (0s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 creating (0s) \n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 created (0.82s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 created (1s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 creating (0s) \n +  aws:ec2:InternetGateway saas-igwid39 creating (0s) \n +  aws:ec2:RouteTable pub-RTid354 creating (0s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 creating (0s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 creating (0s) \n +  aws:ec2:RouteTable pvt-RTid-18 creating (0s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 creating (0s) \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 creating (0s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 creating (0s) \n +  aws:ec2:SecurityGroup internal-saasid373 creating (0s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n@ Updating....\n +  aws:ec2:RouteTable pub-RTid354 created (0.74s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 created (0.77s) \n +  aws:ec2:InternetGateway saas-igwid39 created (0.77s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.45-0-Bid-7 created (1s) \n +  aws:ec2:RouteTable pvt-RTid-18 created (1s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 created (1s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 created (1s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.36-0-Bid-3 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 **creating failed** error: 1 error occurred:\n +  aws:ec2:Subnet 10.0.37-0-Cid-4 created (2s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (2s) error: 1 error occurred:\n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 **creating failed** error: 1 error occurred:\n +  aws:ec2:Route pub-routeid353 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 creating (0s) \n@ Updating....\n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 created (3s) \n +  aws:ec2:SecurityGroup internal-saasid373 created (3s) \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 created (3s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 creating (0s) \n@ Updating....\n +  aws:ec2:Route pub-routeid353 created (2s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 created (1s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 created (1s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 created (2s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-east creating (9s) error: update failed\n +  pulumi:pulumi:Stack ws-1-east **creating failed (0.98s)** 1 error; 8 warnings\n\nDiagnostics:\n  aws:applicationloadbalancing:TargetGroup (saas-app-tgid-41):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check path '/api/v2/internal/healthcheck\n    ' must begin with a '/' character and can only contain printable ASCII characters, without spaces\n    \tstatus code: 400, request id: de784e9a-aaee-4e6e-bdef-c8cb2df1904e\n\n  pulumi:pulumi:Stack (ws-1-east):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    error: update failed\n\n  aws:applicationloadbalancing:TargetGroup (saas-ui-tgid-54):\n    error: 1 error occurred:\n    \t* error creating LB Target Group: ValidationError: Health check timeout '5' must be smaller than the interval '5'\n    \tstatus code: 400, request id: 61373b41-1c8e-4257-9624-b1c02cc9a1f7\n\nResources:\n    + 21 created\n\nDuration: 11s\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 3daad8076388b833e5cadf24adf43f9adbcaf709 \nBranch: ws-1/east \nChanges: 0 \nInsertions: 0 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
         },
@@ -29625,6 +29631,14 @@
         }
     ],
     "state": [
+        {
+            "name": "Apply",
+            "action": "error"
+        },
+        {
+            "name": "Apply",
+            "action": "warning"
+        },
         {
             "name": "Apply",
             "action": "error"
