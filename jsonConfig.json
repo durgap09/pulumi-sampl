@@ -10476,13 +10476,31 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "08-04-2023 05:45 pm",
+            "time": "08-04-2023 05:49 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "error",
+            "text": "Error Occurred while Planning",
+            "time": "2023-08-04T12:16:29.697+00:00",
+            "content": "\nConcurrentUpdateError: code: -2\n stdout: \n stderr: Command failed with exit code 255: pulumi refresh --yes --skip-preview --exec-kind auto.inline --stack east --non-interactive\nerror: [409] Conflict: Another update is currently in progress.\nTo learn more about possible reasons and resolution, visit https://www.pulumi.com/docs/troubleshooting/#conflict\nRefreshing (east)\n\n err?: Error: Command failed with exit code 255: pulumi refresh --yes --skip-preview --exec-kind auto.inline --stack east --non-interactive\nerror: [409] Conflict: Another update is currently in progress.\nTo learn more about possible reasons and resolution, visit https://www.pulumi.com/docs/troubleshooting/#conflict\nRefreshing (east)\n\n\nGit Response:\n\nCommit Result: \nCommit Id: f90c106aa43b8ac96d7fd7064d2be6332a428b0b \nBranch: ws-1/east \nChanges: 1 \nInsertions: 67 \nDeletions: 1\n\n\nGit Response:\n\nCommit Result: \nCommit Id: f90c106aa43b8ac96d7fd7064d2be6332a428b0b \nBranch: ws-1/east \nChanges: 1 \nInsertions: 67 \nDeletions: 1\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-08-04T12:16:19.887+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-08-04T12:15:55.802+00:00",
             "content": "stack Initialized"
         },
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "08-04-2023 05:45 pm",
+            "time": "2023-08-04T12:15:40.588+00:00",
             "content": "stack Initialized"
         },
         {
@@ -10588,8 +10606,36 @@
             "action": "success"
         },
         {
+            "name": "Plan",
+            "action": "error"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         },
         {
             "name": "Plan",
