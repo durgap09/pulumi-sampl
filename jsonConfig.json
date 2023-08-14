@@ -5,7 +5,7 @@
             "name": "Vpc",
             "figure": "RoundedRectangle",
             "otherName": "qmcloud-usw2-saas-prod",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS VPC Service.png",
             "viewName": "Vpc",
             "size": "100 auto",
@@ -55,7 +55,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.46-0-C",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -65,7 +65,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -119,7 +119,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.36-0-B",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -129,7 +129,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -183,7 +183,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.37-0-C",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -193,7 +193,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -247,7 +247,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.44-0-A",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -257,7 +257,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -311,7 +311,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.35-0-A",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -321,7 +321,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -375,7 +375,7 @@
             "name": "Subnet",
             "figure": "RoundedRectangle",
             "otherName": "10.0.45-0-B",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Subnet.png",
             "viewName": "Subnet",
             "size": "100 auto",
@@ -385,7 +385,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "availabilityZoneId",
                     "portId": "port-availabilityZoneId",
-                    "componentKey": 122
+                    "componentKey": 130
                 }
             ],
             "topArray": [
@@ -439,7 +439,7 @@
             "name": "NatGateway",
             "figure": "RoundedRectangle",
             "otherName": "saas-natgw",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/AWS_Nat_Gateway.png",
             "viewName": "NatGateway",
             "size": "100 auto",
@@ -449,7 +449,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "allocationId",
                     "portId": "port-allocationId",
-                    "componentKey": 120
+                    "componentKey": 128
                 }
             ],
             "topArray": [
@@ -495,7 +495,7 @@
             },
             "isInterface": false,
             "key1": -32,
-            "loc": "-1829.5 -1920",
+            "loc": "-1860 -1958",
             "group": -23
         },
         {
@@ -503,7 +503,7 @@
             "name": "InternetGateway",
             "figure": "RoundedRectangle",
             "otherName": "saas-igw",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "InternetGateway",
             "size": "100 auto",
@@ -553,7 +553,7 @@
             },
             "isInterface": false,
             "key1": -23,
-            "loc": "-1689.5 -1920",
+            "loc": "-1720 -1958",
             "group": -23
         },
         {
@@ -561,7 +561,7 @@
             "name": "Eip",
             "figure": "RoundedRectangle",
             "otherName": "saas-nat-eip",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Eip",
             "size": "100 auto",
@@ -604,7 +604,7 @@
             },
             "isInterface": false,
             "key1": -18,
-            "loc": "-1558 -1920",
+            "loc": "-1588.5 -1958",
             "group": -23
         },
         {
@@ -612,7 +612,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pub-rta-1",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -673,7 +673,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2400 -2012",
+            "loc": "-2400 -2028",
             "group": -22
         },
         {
@@ -681,7 +681,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pub-rta-2",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -742,7 +742,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2260 -2012",
+            "loc": "-2260 -2028",
             "group": -22
         },
         {
@@ -750,7 +750,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pub-rta-3",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -811,7 +811,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-2120 -2012",
+            "loc": "-2120 -2028",
             "group": -22
         },
         {
@@ -819,7 +819,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pvt-rta-1",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -880,7 +880,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1390 -1932.000076171876",
+            "loc": "-1390 -1948.0000761718757",
             "group": -24
         },
         {
@@ -888,7 +888,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pvt-rta-2",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -949,7 +949,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1250 -1932.000076171876",
+            "loc": "-1250 -1948.0000761718757",
             "group": -24
         },
         {
@@ -957,7 +957,7 @@
             "name": "RouteTableAssociation",
             "figure": "RoundedRectangle",
             "otherName": "pvt-rta-3",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTableAssociation",
             "size": "100 auto",
@@ -1018,7 +1018,7 @@
             },
             "isInterface": false,
             "key1": -42,
-            "loc": "-1110 -1932.000076171876",
+            "loc": "-1110 -1948.0000761718757",
             "group": -24
         },
         {
@@ -1026,7 +1026,7 @@
             "name": "RouteTable",
             "figure": "RoundedRectangle",
             "otherName": "pub-RT",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTable",
             "size": "100 auto",
@@ -1076,7 +1076,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-2400 -1837",
+            "loc": "-2400 -1853",
             "group": -22
         },
         {
@@ -1084,7 +1084,7 @@
             "name": "RouteTable",
             "figure": "RoundedRectangle",
             "otherName": "pvt-RT",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "RouteTable",
             "size": "100 auto",
@@ -1134,7 +1134,7 @@
             },
             "isInterface": false,
             "key1": -41,
-            "loc": "-1390 -1757.000076171876",
+            "loc": "-1390 -1773.0000761718757",
             "group": -24
         },
         {
@@ -1142,7 +1142,7 @@
             "name": "Route",
             "figure": "RoundedRectangle",
             "otherName": "pub-route",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Route",
             "size": "100 auto",
@@ -1248,7 +1248,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-2260 -1837",
+            "loc": "-2260 -1853",
             "group": -22
         },
         {
@@ -1256,7 +1256,7 @@
             "name": "Route",
             "figure": "RoundedRectangle",
             "otherName": "pvt-route",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Route",
             "size": "100 auto",
@@ -1362,7 +1362,7 @@
             },
             "isInterface": false,
             "key1": -40,
-            "loc": "-1250 -1757.000076171876",
+            "loc": "-1250 -1773.0000761718757",
             "group": -24
         },
         {
@@ -1392,7 +1392,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2460 -2090",
+            "loc": "-2460 -2106",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1407,7 +1407,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1920 -2020",
+            "loc": "-1950.5 -2058",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1422,7 +1422,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1450 -2010.000076171876",
+            "loc": "-1450 -2026.0000761718757",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1445,7 +1445,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-jump",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -1495,7 +1495,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-1870 -2399.9219999999996",
+            "loc": "-1870 -2438",
             "group": -30
         },
         {
@@ -1503,7 +1503,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "RDP",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1559,7 +1559,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1730 -2399.9219999999996",
+            "loc": "-1730 -2438",
             "group": -30
         },
         {
@@ -1567,7 +1567,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1623,7 +1623,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1590 -2399.9219999999996",
+            "loc": "-1590 -2438",
             "group": -30
         },
         {
@@ -1631,7 +1631,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "jump-saas",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1641,7 +1641,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 118
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -1692,7 +1692,7 @@
             },
             "isInterface": false,
             "key1": -22,
-            "loc": "-2120 -1837",
+            "loc": "-2120 -1853",
             "group": -22
         },
         {
@@ -1707,7 +1707,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-1930 -2500",
+            "loc": "-1930 -2537.038916015625",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1715,7 +1715,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "internal-saas",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -1765,7 +1765,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-1270 -2710.961",
+            "loc": "-1270 -2748",
             "group": -36
         },
         {
@@ -1773,7 +1773,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "internal",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1829,7 +1829,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-1130 -2710.961",
+            "loc": "-1130 -2748",
             "group": -36
         },
         {
@@ -1837,7 +1837,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -1893,7 +1893,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-990 -2710.961",
+            "loc": "-990 -2748",
             "group": -36
         },
         {
@@ -1908,7 +1908,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-1330 -2810",
+            "loc": "-1330 -2847.038916015625",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -1916,7 +1916,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-app",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1926,7 +1926,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 118
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -1985,7 +1985,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -1995,7 +1995,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 118
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2061,7 +2061,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -74,
-            "loc": "-1930 -2800",
+            "loc": "-1930.0000000000036 -2800",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2069,7 +2069,7 @@
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin-tg",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroup",
             "size": "100 auto",
@@ -2119,7 +2119,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-3020 -2730.000076171876",
+            "loc": "-3020 -2768.000076171876",
             "group": -52
         },
         {
@@ -2127,7 +2127,7 @@
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-app-tg",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroup",
             "size": "100 auto",
@@ -2177,7 +2177,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-3000 -2020",
+            "loc": "-3000 -2058",
             "group": -47
         },
         {
@@ -2185,7 +2185,7 @@
             "name": "TargetGroupAttachment",
             "figure": "RoundedRectangle",
             "otherName": "saas-app-tga",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroupAttachment",
             "size": "100 auto",
@@ -2235,7 +2235,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-2860 -2020",
+            "loc": "-2860 -2058",
             "group": -47
         },
         {
@@ -2243,7 +2243,7 @@
             "name": "TargetGroupAttachment",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin-tga",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroupAttachment",
             "size": "100 auto",
@@ -2293,7 +2293,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-2880 -2730.000076171876",
+            "loc": "-2880 -2768.000076171876",
             "group": -52
         },
         {
@@ -2301,7 +2301,7 @@
             "name": "LoadBalancer",
             "figure": "RoundedRectangle",
             "otherName": "saas-app-alb",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "LoadBalancer",
             "size": "100 auto",
@@ -2344,7 +2344,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-2728.5 -2020",
+            "loc": "-2728.5 -2058",
             "group": -47
         },
         {
@@ -2359,7 +2359,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-3060 -2120",
+            "loc": "-3060 -2158",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2367,7 +2367,7 @@
             "name": "LoadBalancer",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin-alb",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "LoadBalancer",
             "size": "100 auto",
@@ -2410,7 +2410,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-2748.5 -2730.000076171876",
+            "loc": "-2748.5 -2768.000076171876",
             "group": -52
         },
         {
@@ -2418,7 +2418,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "saas-admin-listner",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -2461,7 +2461,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-3028.5 -2520.000076171876",
+            "loc": "-3028.5 -2558.000076171876",
             "group": -52
         },
         {
@@ -2469,7 +2469,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "443-saas-admin-listener",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -2512,7 +2512,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-2923.5 -2520.000076171876",
+            "loc": "-2923.5 -2558.000076171876",
             "group": -52
         },
         {
@@ -2527,7 +2527,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -3,
-            "loc": "-3080 -2830.000076171876",
+            "loc": "-3080 -2868.000076171876",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -2535,7 +2535,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "443-listner-saas-app",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -2578,7 +2578,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-3008.5 -1810",
+            "loc": "-3008.5 -1848",
             "group": -47
         },
         {
@@ -2586,7 +2586,7 @@
             "name": "TargetGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui-tg",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroup",
             "size": "100 auto",
@@ -2636,7 +2636,7 @@
             },
             "isInterface": false,
             "key1": -1,
-            "loc": "-2895 -1810",
+            "loc": "-2895 -1848",
             "group": -47
         },
         {
@@ -2644,7 +2644,7 @@
             "name": "TargetGroupAttachment",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui-tg",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "TargetGroupAttachment",
             "size": "100 auto",
@@ -2694,7 +2694,7 @@
             },
             "isInterface": false,
             "key1": -2,
-            "loc": "-2755 -1810",
+            "loc": "-2755 -1848",
             "group": -47
         },
         {
@@ -2702,7 +2702,7 @@
             "name": "Instance",
             "figure": "RoundedRectangle",
             "otherName": "saas-ui",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/ec2_instance.png",
             "viewName": "Instance",
             "size": "100 auto",
@@ -2712,7 +2712,7 @@
                     "portColor": "#9c0202",
                     "portTitle": "hostId",
                     "portId": "port-hostId",
-                    "componentKey": 118
+                    "componentKey": 126
                 },
                 {
                     "portColor": "#9c0202",
@@ -2771,7 +2771,7 @@
             "name": "SecurityGroup",
             "figure": "RoundedRectangle",
             "otherName": "saas-ALB-group",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroup",
             "size": "100 auto",
@@ -2821,7 +2821,7 @@
             },
             "isInterface": false,
             "key1": -43,
-            "loc": "-2392 -2689.999916015625",
+            "loc": "-2430 -2728",
             "group": -62
         },
         {
@@ -2829,7 +2829,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "80-all",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2885,7 +2885,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2252 -2689.999916015625",
+            "loc": "-2290 -2728",
             "group": -62
         },
         {
@@ -2893,7 +2893,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "vpc-internal",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -2949,7 +2949,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2112 -2689.999916015625",
+            "loc": "-2150 -2728",
             "group": -62
         },
         {
@@ -2957,7 +2957,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "443-all",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3013,7 +3013,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2392 -2479.999916015625",
+            "loc": "-2430 -2518",
             "group": -62
         },
         {
@@ -3021,7 +3021,7 @@
             "name": "SecurityGroupRule",
             "figure": "RoundedRectangle",
             "otherName": "egress",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "SecurityGroupRule",
             "size": "100 auto",
@@ -3077,7 +3077,7 @@
             },
             "isInterface": false,
             "key1": -44,
-            "loc": "-2252 -2479.999916015625",
+            "loc": "-2290 -2518",
             "group": -62
         },
         {
@@ -3092,7 +3092,7 @@
             "isGroup": true,
             "isSubGraphExpanded": true,
             "key1": -2,
-            "loc": "-2490 -2790",
+            "loc": "-2520.5 -2828",
             "canvasState": "notDeployedIcon"
         },
         {
@@ -3100,7 +3100,7 @@
             "name": "Listener",
             "figure": "RoundedRectangle",
             "otherName": "Http-80",
-            "canvasState": "",
+            "canvasState": "deleteIcon",
             "picLight": "https://qcloud.dev.appmodz.net/api/images/light/null",
             "viewName": "Listener",
             "size": "100 auto",
@@ -3143,7 +3143,7 @@
             },
             "isInterface": false,
             "key1": -5,
-            "loc": "-3008.5 -1600",
+            "loc": "-3008.5 -1638",
             "group": -47
         }
     ],
@@ -29598,7 +29598,31 @@
         {
             "type": "success",
             "text": "Save Executed",
-            "time": "08-07-2023 02:27 pm",
+            "time": "08-14-2023 03:17 pm",
+            "content": "stack Initialized"
+        },
+        {
+            "type": "success",
+            "text": "Apply Executed",
+            "time": "2023-08-07T09:00:31.597+00:00",
+            "content": "Updating (dr-2)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/dr-2/updates/3\n\n\n@ Updating....\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (0s) \n@ Updating....\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-dr-2 creating (1s) warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 creating (0s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 creating (0s) \n@ Updating....\n +  aws:ec2:Eip saas-nat-eipid34 created (0.66s) \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 created (1s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 creating (0s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 creating (0s) \n +  aws:ec2:InternetGateway saas-igwid39 creating (0s) \n +  aws:ec2:RouteTable pub-RTid354 creating (0s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 creating (0s) \n +  aws:ec2:RouteTable pvt-RTid-18 creating (0s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 creating (0s) \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 creating (0s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 creating (0s) \n +  aws:ec2:SecurityGroup internal-saasid373 creating (0s) \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 creating (0s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 created (0.79s) \n@ Updating....\n +  aws:ec2:RouteTable pub-RTid354 created (0.94s) \n +  aws:ec2:InternetGateway saas-igwid39 created (0.98s) \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 created (1s) \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 created (1s) \n +  aws:ec2:RouteTable pvt-RTid-18 created (1s) \n +  aws:ec2:Subnet 10.0.46-0-Cid358 created (1s) \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 created (1s) \n@ Updating....\n +  aws:ec2:Subnet 10.0.36-0-Bid-3 created (2s) \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 created (2s) \n +  aws:ec2:Route pub-routeid353 creating (0s) \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 created (2s) \n@ Updating....\n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 created (2s) \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 created (2s) \n +  aws:ec2:NatGateway saas-natgwid48 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 creating (0s) \n +  aws:ec2:SecurityGroup saas-jumpid334 created (3s) \n +  aws:ec2:SecurityGroup internal-saasid373 created (3s) \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 creating (0s) \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 creating (0s) \n@ Updating....\n +  aws:lb:LoadBalancer saas-admin-albid-49 creating (0s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-61 creating (0s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 creating (0s) \n +  aws:lb:LoadBalancer saas-app-albid117 creating (0s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 creating (0s) \n +  aws:ec2:Route pub-routeid353 created (1s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pub-rta-1id355 created (2s) \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 created (2s) \n +  aws:ec2:Instance jump-saasid328 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-28 creating (0s) \n +  aws:ec2:SecurityGroupRule RDPid335 creating (0s) \n +  aws:ec2:Instance saas-uiid-56 creating (0s) \n +  aws:ec2:SecurityGroupRule egressid-35 creating (0s) \n +  aws:ec2:SecurityGroupRule internalid-34 creating (0s) \n +  aws:ec2:Instance saas-appid-37 creating (0s) \n +  aws:ec2:Instance saas-adminid329 creating (0s) \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 created (2s) \n@ Updating....\n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 created (2s) \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 created (2s) \n +  aws:ec2:SecurityGroupRule 80-allid-58 created (2s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-61 created (2s) \n +  aws:ec2:SecurityGroupRule 443-allid-60 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule egressid-28 created (3s) \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 created (3s) \n +  aws:ec2:SecurityGroupRule egressid-35 created (3s) \n +  aws:ec2:SecurityGroupRule RDPid335 created (3s) \n@ Updating....\n +  aws:ec2:SecurityGroupRule internalid-34 created (3s) \n@ Updating..............\n +  aws:ec2:Instance saas-uiid-56 created (14s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 creating (0s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 created (0.31s) \n +  aws:ec2:Instance saas-appid-37 created (15s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 creating (0s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 created (0.36s) \n +  aws:ec2:Instance saas-adminid329 created (15s) \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 creating (0s) \n@ Updating....\n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 created (0.45s) \n@ Updating....................\n +  aws:ec2:Instance jump-saasid328 created (33s) \n@ Updating............................................................................................\n +  aws:lb:LoadBalancer saas-app-albid117 created (124s) \n +  aws:ec2:NatGateway saas-natgwid48 created (125s) \n@ Updating....\n +  aws:lb:Listener Http-80id-63 creating (0s) \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 creating (0s) \n +  aws:ec2:Route pvt-routeid-20 creating (0s) \n +  aws:lb:Listener Http-80id-63 created (0.61s) \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 created (0.91s) \n@ Updating....\n +  aws:ec2:Route pvt-routeid-20 created (1s) \n@ Updating...........\n +  aws:lb:LoadBalancer saas-admin-albid-49 created (134s) \n +  aws:lb:Listener saas-admin-listnerid-50 creating (0s) \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 creating (0s) \n@ Updating....\n +  aws:lb:Listener saas-admin-listnerid-50 created (0.50s) \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 created (0.77s) \n +  pulumi:pulumi:Stack ws-1-dr-2 created (1s) 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-dr-2):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\nResources:\n    + 48 created\n\nDuration: 2m24s\n\n\nGit Response:\n\nCommit Result: \nCommit Id: d346944c10f35fcd0ee94e081e459622b2061083 \nBranch: ws-1/dr-2 \nChanges: 0 \nInsertions: 0 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Plan Executed",
+            "time": "2023-08-07T08:57:53.879+00:00",
+            "content": "Previewing update (dr-2)\n\nView Live: https://app.pulumi.com/durgaprasad9/ws-1/dr-2/previews/619b5415-3c3e-4b6b-85e1-c0a34b36e5b9\n\n\n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-dr-2 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n +  pulumi:pulumi:Stack ws-1-dr-2 create warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n +  aws:ec2:Eip saas-nat-eipid34 create \n +  aws:ec2:Vpc qmcloud-usw2-saas-prodid366 create \n +  aws:ec2:InternetGateway saas-igwid39 create \n +  aws:ec2:Subnet 10.0.44-0-Aid-5 create \n +  aws:applicationloadbalancing:TargetGroup saas-admin-tgid60 create \n +  aws:ec2:RouteTable pub-RTid354 create \n +  aws:ec2:RouteTable pvt-RTid-18 create \n +  aws:ec2:SecurityGroup saas-ALB-groupid-57 create \n +  aws:ec2:SecurityGroup internal-saasid373 create \n +  aws:ec2:SecurityGroup saas-jumpid334 create \n +  aws:ec2:Subnet 10.0.35-0-Aid-6 create \n +  aws:ec2:Subnet 10.0.45-0-Bid-7 create \n +  aws:ec2:Subnet 10.0.46-0-Cid358 create \n +  aws:ec2:Subnet 10.0.37-0-Cid-4 create \n +  aws:ec2:Subnet 10.0.36-0-Bid-3 create \n +  aws:applicationloadbalancing:TargetGroup saas-ui-tgid-54 create \n +  aws:applicationloadbalancing:TargetGroup saas-app-tgid-41 create \n +  aws:ec2:NatGateway saas-natgwid48 create \n +  aws:ec2:RouteTableAssociation pub-rta-1id355 create \n +  aws:ec2:Route pub-routeid353 create \n +  aws:ec2:SecurityGroupRule egressid-61 create \n +  aws:ec2:SecurityGroupRule 80-allid-58 create \n +  aws:ec2:SecurityGroupRule vpc-internalid-59 create \n +  aws:ec2:SecurityGroupRule 443-allid-60 create \n +  aws:ec2:SecurityGroupRule internalid-34 create \n +  aws:ec2:SecurityGroupRule egressid-35 create \n +  aws:ec2:Instance saas-uiid-56 create \n +  aws:ec2:RouteTableAssociation pvt-rta-1id-14 create \n +  aws:ec2:Instance saas-appid-37 create \n +  aws:ec2:Instance saas-adminid329 create \n +  aws:ec2:RouteTableAssociation pub-rta-2id-12 create \n +  aws:ec2:Instance jump-saasid328 create \n +  aws:ec2:SecurityGroupRule egressid-28 create \n +  aws:ec2:SecurityGroupRule RDPid335 create \n +  aws:lb:LoadBalancer saas-admin-albid-49 create \n +  aws:ec2:RouteTableAssociation pub-rta-3id-13 create \n +  aws:lb:LoadBalancer saas-app-albid117 create \n +  aws:ec2:RouteTableAssociation pvt-rta-3id-16 create \n +  aws:ec2:RouteTableAssociation pvt-rta-2id-15 create \n +  aws:ec2:Route pvt-routeid-20 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-ui-tgid-55 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-app-tgaid61 create \n +  aws:applicationloadbalancing:TargetGroupAttachment saas-admin-tgaid-43 create \n +  aws:lb:Listener saas-admin-listnerid-50 create \n +  aws:applicationloadbalancing:Listener 443-saas-admin-listenerid-51 create \n +  aws:lb:Listener Http-80id-63 create \n +  aws:applicationloadbalancing:Listener 443-listner-saas-appid53 create \n@ Previewing update....\n +  pulumi:pulumi:Stack ws-1-dr-2 create 8 warnings\n\nDiagnostics:\n  pulumi:pulumi:Stack (ws-1-dr-2):\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: TargetGroup is deprecated: aws.applicationloadbalancing.TargetGroup has been deprecated in favor of aws.alb.TargetGroup\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n    warning: Listener is deprecated: aws.applicationloadbalancing.Listener has been deprecated in favor of aws.alb.Listener\n    warning: TargetGroupAttachment is deprecated: aws.applicationloadbalancing.TargetGroupAttachment has been deprecated in favor of aws.alb.TargetGroupAttachment\n\nResources:\n    + 48 to create\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 2c7e3b9797ca5a36dc4db87413864f23c3657765 \nBranch: ws-1/dr-2 \nChanges: 2 \nInsertions: 29959 \nDeletions: 0\n\n\nGit Response:\n\nCommit Result: \nCommit Id: 2c7e3b9797ca5a36dc4db87413864f23c3657765 \nBranch: ws-1/dr-2 \nChanges: 2 \nInsertions: 29959 \nDeletions: 0\n\nPush Result: \nSuccessfully Pushed To https://github.com/durgap09/pulumi-sampl.git"
+        },
+        {
+            "type": "success",
+            "text": "Validate Executed",
+            "time": "2023-08-07T08:57:40.988+00:00",
+            "content": "Valid Syntax"
+        },
+        {
+            "type": "success",
+            "text": "Save Executed",
+            "time": "2023-08-07T08:57:34.795+00:00",
             "content": "stack Initialized"
         }
     ],
@@ -29606,6 +29630,38 @@
         {
             "name": "Save",
             "action": "success"
+        },
+        {
+            "name": "Apply",
+            "action": "success"
+        },
+        {
+            "name": "Apply",
+            "action": "warning"
+        },
+        {
+            "name": "Plan",
+            "action": "success"
+        },
+        {
+            "name": "Plan",
+            "action": "warning"
+        },
+        {
+            "name": "Validate",
+            "action": "success"
+        },
+        {
+            "name": "Validate",
+            "action": "warning"
+        },
+        {
+            "name": "Save",
+            "action": "success"
+        },
+        {
+            "name": "Save",
+            "action": "warning"
         }
     ]
 }
